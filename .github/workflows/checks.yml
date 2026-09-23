@@ -1,0 +1,32 @@
+name: Checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.11', '3.14']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m unittest discover -s tests -v
+        working-directory: app
+      - run: node --test app/tests/timing.test.cjs lock/tests/display-power.test.cjs tests/*.test.cjs
+      - run: node --check app/static/app.js
+      - run: bash -n bin/split-flap-board bin/split-flap-screensaver bin/split-flap-lock
+      - run: python lock/extras/test-service-api.py
+      - run: python lock/extras/test-clip-filenames.py
+      - run: bash lock/extras/test-safe-paths.sh
+  shell-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -q && sudo apt-get install -qy shellcheck
+      - run: bash lock/extras/security-check.sh

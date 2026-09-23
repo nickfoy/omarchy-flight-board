@@ -1,0 +1,9 @@
+#!/bin/bash
+set -euo pipefail
+plugin_dir=$(dirname "$(dirname "$(readlink -f "$0")")")
+for arg in "$@"; do
+  if [[ $arg == --screensaver ]]; then
+    exec /usr/bin/python "$plugin_dir/app/launch.py" --app-id=org.omarchy.screensaver "$@"
+  fi
+done
+exec /usr/bin/python "$plugin_dir/app/launch.py" "$@"

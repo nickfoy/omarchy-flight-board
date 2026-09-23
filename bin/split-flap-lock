@@ -1,0 +1,16 @@
+#!/bin/bash
+# Ask the real lock service to keep a flight board on its secure surface.
+# Retain the desktop screensaver until that surface has secured the session.
+screen_off_delay=${1:-780}
+[[ $screen_off_delay =~ ^[0-9]+$ ]] || screen_off_delay=780
+result=$(omarchy-shell lock lockScreensaver "$screen_off_delay" 2>/dev/null)
+if [[ $result == ok ]]; then
+  for ((attempt = 0; attempt < 50; attempt++)); do
+    if omarchy-shell lock status 2>/dev/null | jq -e '.secure == true' >/dev/null; then
+      break
+    fi
+    sleep 0.1
+  done
+fi
+# Preserve the normal keyboard/password-manager cleanup and safe fallback.
+exec omarchy system lock

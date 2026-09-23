@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flight Board</title>
+  <link rel="icon" href="/icon.svg"><link rel="stylesheet" href="/style.css">
+  <script src="/timing.js" defer></script>
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <main id="app">
+    <section id="board" class="board" aria-label="Flight information board">
+      <button id="settings" class="board-settings" title="Board settings (S)" aria-label="Board settings" aria-haspopup="dialog"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M9.5 3h5l.6 2.4 2.1 1.2 2.4-.7 2.5 4.2-1.8 1.8v2.4l1.8 1.8-2.5 4.2-2.4-.7-2.1 1.2-.6 2.4h-5l-.6-2.4-2.1-1.2-2.4.7-2.5-4.2 1.8-1.8v-2.4l-1.8-1.8 2.5-4.2 2.4.7 2.1-1.2z" transform="translate(1 0) scale(.9)"/><circle cx="12" cy="12" r="3"/></svg></button>
+      <div class="column-labels" aria-hidden="true"></div>
+      <div id="rows" class="rows"></div>
+      <div id="empty" class="empty" hidden><span class="empty-icon">✈</span><h2>Connecting to the runway</h2><p>Fetching the latest airport information…</p></div>
+      <div class="board-fineprint"><span id="board-notice" role="status" hidden></span><a href="https://www.avinor.no" target="_blank" rel="noreferrer">Flydata fra Avinor</a></div>
+    </section>
+  </main>
+  <dialog id="settings-dialog" aria-labelledby="settings-title">
+    <form id="settings-form">
+      <div class="drawer-header"><div><div class="eyebrow">MAKE IT YOURS</div><h2 id="settings-title">Board settings</h2></div><button type="button" id="close-settings" class="icon-button" aria-label="Close settings">×</button></div>
+      <div class="drawer-content">
+        <div class="drawer-actions"><button type="button" id="animate" title="Replay the split-flap animation">↻ <span>Flip board</span></button><button type="button" id="fullscreen" title="Fullscreen (F)">⛶ <span>Fullscreen</span></button></div>
+
+        <section id="screensaver-settings">
+          <h3>Screensaver</h3>
+          <p id="integration-status" class="coverage-note" role="status">Checking screensaver setup…</p>
+          <p class="hint">Enabling backs up your idle settings, uses Flight Board for locking, and restarts the desktop shell. Restore returns to Omarchy’s lock screen and your previous idle timing.</p>
+          <div class="drawer-actions"><button type="button" id="enable-integration" disabled>Save &amp; enable screensaver</button><button type="button" id="restore-integration" hidden>Restore previous setup</button></div>
+          <p class="hint">All times are minutes since your last activity.</p>
+          <div class="timing-fields">
+            <label for="screensaver-minutes">Show board<input type="number" id="screensaver-minutes" min="1" max="238" step="1" required aria-describedby="timing-summary timing-error"></label>
+            <label for="lock-minutes">Lock laptop<input type="number" id="lock-minutes" min="2" max="239" step="1" required aria-describedby="timing-summary timing-error"></label>
+            <label for="screen-off-minutes">Screen off<input type="number" id="screen-off-minutes" min="3" max="240" step="1" required aria-describedby="timing-summary timing-error"></label>
+          </div>
+          <p id="timing-summary" class="coverage-note"></p>
+          <p id="timing-error" class="timing-error" role="status" hidden></p>
+          <p class="hint">Returning after locking reveals the password screen. Leave it idle and the board returns while the laptop stays locked. Activity restarts the screen-off countdown.</p>
+          <label class="toggle-row"><span><strong>Enable constant turning</strong><small>Flip the whole board every 30 seconds.</small></span><input type="checkbox" id="constant-turning" role="switch" aria-describedby="turning-help"></label><p class="coverage-note" id="turning-help">Replays the animation using the current flights, even when nothing has changed. Live data keeps its selected refresh interval.</p>
+          <button type="button" id="lock-appearance" class="appearance-button">Lock screen appearance ↗</button>
+        </section>
+        <section><div class="section-title"><h3>Airports</h3><span id="selected-count">3 SELECTED</span></div><p class="hint">One board. All your selected airports.</p><div id="selected-airports" class="chips"></div><label for="airport-search" class="sr-only">Search airports by name or IATA code</label><div class="search-field"><span>⌕</span><input id="airport-search" placeholder="Search airport or IATA code…" autocomplete="off"></div><div id="airport-results" class="airport-results"></div><p class="coverage-note">Free live coverage: Avinor airports in Norway. Other airports are searchable, with coverage marked. No account or API key needed.</p></section>
+        <section><h3>Display</h3><label class="field-label" for="mode">Flights to show</label><select id="mode"><option value="both">Arrivals & departures</option><option value="departures">Departures only</option><option value="arrivals">Arrivals only</option></select><div class="range-label"><label for="row-count">Rows on the board</label><output id="row-value">10</output></div><input type="range" id="row-count" min="4" max="18" value="10"><label class="field-label" for="timezone">Time zone</label><select id="timezone"><option value="airport">Each airport’s local time</option><option value="local">My computer’s local time</option><option value="utc">UTC</option></select></section>
+        <section><h3>Palette</h3><div class="presets"><button type="button" data-preset="classic" class="preset"><i class="swatch classic"></i>Amber</button><button type="button" data-preset="ivory" class="preset"><i class="swatch ivory"></i>Ivory</button><button type="button" data-preset="mint" class="preset"><i class="swatch mint"></i>Mint</button></div><div class="color-fields"><label>Background<input type="color" id="background"></label><label>Flap grid<input type="color" id="grid"></label><label>Letters<input type="color" id="letters"></label></div><p class="hint">Colors preview immediately on your board.</p></section>
+        <section><h3>Live updates</h3><label class="field-label" for="refresh-minutes">Refresh interval</label><select id="refresh-minutes" aria-describedby="refresh-help"><option value="1">Every 1 minute</option><option value="2">Every 2 minutes</option><option value="3" selected>Every 3 minutes</option><option value="4">Every 4 minutes</option><option value="5">Every 5 minutes</option><option value="6">Every 6 minutes</option><option value="7">Every 7 minutes</option><option value="8">Every 8 minutes</option><option value="9">Every 9 minutes</option><option value="10">Every 10 minutes</option></select><p class="coverage-note" id="refresh-help">Avinor live requests are spaced at least 3 minutes apart. The 1- and 2-minute options use cached data between live fetches.</p></section>
+
+        <section><label class="toggle-row"><span><strong>Animation demo</strong><small>Sample flights change every few seconds.</small></span><input type="checkbox" id="demo" role="switch"></label><p class="coverage-note">Demo uses simulated flights and is always labeled. The refresh interval applies to live mode; demo changes every few seconds.</p></section>
+        <section class="board-overview"><div class="eyebrow" id="eyebrow">A WINDOW TO THE WORLD</div><h1 id="title">Arrivals & departures<span>.</span></h1><div id="airport-summary" class="airport-summary"></div><div class="clock"><div id="clock-time">00:00:00</div><div id="clock-date">AIRPORT LOCAL TIME</div></div><div class="feed-state"><span id="status-dot" class="status-dot"></span><span id="feed-status" role="status">CONNECTING</span></div><p id="update-status">Waiting for flight data</p><p id="time-note">TIMES LOCAL TO AIRPORT</p></section>
+      </div>
+      <div class="drawer-footer"><p id="save-message" role="status">Preferences are saved on this computer.</p><button type="submit" class="primary">Save & return to board <span>↗</span></button></div>
+    </form>
+  </dialog>
+  <div id="toast" role="status" hidden></div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+#!/bin/bash
+set -euo pipefail
+
+# Respect Omarchy's existing availability toggle and never appear over a lock.
+if omarchy-toggle-enabled screensaver-off; then
+  exit 0
+fi
+lock_state=$(omarchy-shell lock isLocked)
+[[ $lock_state == false ]] || exit 0
+
+# Keep one screensaver process; that process creates a window per display.
+exec 9>"${XDG_RUNTIME_DIR:?Desktop session required}/split-flap-screensaver.lock"
+flock -n 9 || exit 0
+plugin_dir=$(dirname "$(dirname "$(readlink -f "$0")")")
+exec "$plugin_dir/bin/split-flap-board" --screensaver

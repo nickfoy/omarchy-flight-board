@@ -1,0 +1,8086 @@
+[
+  {
+    "code": "88J",
+    "name": "Pyramiden"
+  },
+  {
+    "code": "AAH",
+    "name": "Aachen"
+  },
+  {
+    "code": "AAL",
+    "name": "Aalborg"
+  },
+  {
+    "code": "AAQ",
+    "name": "Anapa"
+  },
+  {
+    "code": "AAR",
+    "name": "Århus"
+  },
+  {
+    "code": "ABA",
+    "name": "Abakan"
+  },
+  {
+    "code": "ABE",
+    "name": "Allentown-Bethlehem-Easton"
+  },
+  {
+    "code": "ABI",
+    "name": "Abilene"
+  },
+  {
+    "code": "ABQ",
+    "name": "Albuquerque"
+  },
+  {
+    "code": "ABR",
+    "name": "Aberdeen"
+  },
+  {
+    "code": "ABS",
+    "name": "Abu Simbel"
+  },
+  {
+    "code": "ABT",
+    "name": "Abha"
+  },
+  {
+    "code": "ABZ",
+    "name": "Aberdeen"
+  },
+  {
+    "code": "ACA",
+    "name": "Acapulco/Alvarez"
+  },
+  {
+    "code": "ACE",
+    "name": "Lanzarote"
+  },
+  {
+    "code": "ACH",
+    "name": "Altenrhein"
+  },
+  {
+    "code": "ACI",
+    "name": "Alderney"
+  },
+  {
+    "code": "ACO",
+    "name": "Ascona"
+  },
+  {
+    "code": "ACT",
+    "name": "Waco"
+  },
+  {
+    "code": "ACV",
+    "name": "Arcata"
+  },
+  {
+    "code": "ACY",
+    "name": "Atlantic City"
+  },
+  {
+    "code": "ADA",
+    "name": "Adana"
+  },
+  {
+    "code": "ADB",
+    "name": "Izmir"
+  },
+  {
+    "code": "ADD",
+    "name": "Addis Abeba"
+  },
+  {
+    "code": "ADH",
+    "name": "Aldan"
+  },
+  {
+    "code": "ADW",
+    "name": "Camp Springs/Andrews"
+  },
+  {
+    "code": "AER",
+    "name": "Sochi"
+  },
+  {
+    "code": "AES",
+    "name": "Ålesund"
+  },
+  {
+    "code": "AEY",
+    "name": "Akureyri"
+  },
+  {
+    "code": "AFW",
+    "name": "Fort Worth Alliance"
+  },
+  {
+    "code": "AFY",
+    "name": "Afyon"
+  },
+  {
+    "code": "AGA",
+    "name": "Agadir"
+  },
+  {
+    "code": "AGB",
+    "name": "Augsburg"
+  },
+  {
+    "code": "AGC",
+    "name": "Pittsburgh/Allegheny"
+  },
+  {
+    "code": "AGE",
+    "name": "Wangerooge"
+  },
+  {
+    "code": "AGF",
+    "name": "Agen/La Garenne"
+  },
+  {
+    "code": "AGH",
+    "name": "Angelholm Helsingborg"
+  },
+  {
+    "code": "AGP",
+    "name": "Malaga"
+  },
+  {
+    "code": "AGQ",
+    "name": "Agrinion"
+  },
+  {
+    "code": "AGR",
+    "name": "Agra/Kheria"
+  },
+  {
+    "code": "AGS",
+    "name": "Augusta/Budh Field"
+  },
+  {
+    "code": "AHN",
+    "name": "Athens"
+  },
+  {
+    "code": "AHO",
+    "name": "Alghero"
+  },
+  {
+    "code": "AHU",
+    "name": "Al Hoceima"
+  },
+  {
+    "code": "AJA",
+    "name": "Ajaccio"
+  },
+  {
+    "code": "AJR",
+    "name": "Arvidsjaur"
+  },
+  {
+    "code": "AKT",
+    "name": "Akrotiri"
+  },
+  {
+    "code": "AKU",
+    "name": "Aksu"
+  },
+  {
+    "code": "AKX",
+    "name": "Aktyubinsk"
+  },
+  {
+    "code": "ALA",
+    "name": "Almaty"
+  },
+  {
+    "code": "ALC",
+    "name": "Alicante"
+  },
+  {
+    "code": "ALF",
+    "name": "Alta"
+  },
+  {
+    "code": "ALI",
+    "name": "Alice"
+  },
+  {
+    "code": "ALJ",
+    "name": "Alexander Bay"
+  },
+  {
+    "code": "ALL",
+    "name": "Albenga"
+  },
+  {
+    "code": "ALN",
+    "name": "Alton"
+  },
+  {
+    "code": "ALO",
+    "name": "Waterloo"
+  },
+  {
+    "code": "ALW",
+    "name": "Walla Walla"
+  },
+  {
+    "code": "ALY",
+    "name": "Alexandria"
+  },
+  {
+    "code": "AMA",
+    "name": "Amarillo"
+  },
+  {
+    "code": "AMM",
+    "name": "Amman"
+  },
+  {
+    "code": "AMS",
+    "name": "Amsterdam"
+  },
+  {
+    "code": "ANB",
+    "name": "Anniston"
+  },
+  {
+    "code": "ANC",
+    "name": "Anchorage"
+  },
+  {
+    "code": "AND",
+    "name": "Anderson"
+  },
+  {
+    "code": "ANE",
+    "name": "Angers-Avrille"
+  },
+  {
+    "code": "ANG",
+    "name": "Angouleme Brie-Champniers"
+  },
+  {
+    "code": "ANK",
+    "name": "Ankara Etimesgut"
+  },
+  {
+    "code": "ANR",
+    "name": "Antwerpen"
+  },
+  {
+    "code": "ANX",
+    "name": "Andenes"
+  },
+  {
+    "code": "AOC",
+    "name": "Altenburg"
+  },
+  {
+    "code": "AOI",
+    "name": "Ancona"
+  },
+  {
+    "code": "AOK",
+    "name": "Karpathos"
+  },
+  {
+    "code": "AOO",
+    "name": "Altoona"
+  },
+  {
+    "code": "AOR",
+    "name": "Alor Setar"
+  },
+  {
+    "code": "APF",
+    "name": "Naples US"
+  },
+  {
+    "code": "APG",
+    "name": "Aberdeen/Phillips"
+  },
+  {
+    "code": "APN",
+    "name": "Alpena"
+  },
+  {
+    "code": "AQJ",
+    "name": "Aqaba"
+  },
+  {
+    "code": "ARH",
+    "name": "Arkhangelsk"
+  },
+  {
+    "code": "ARN",
+    "name": "Stockholm"
+  },
+  {
+    "code": "ART",
+    "name": "Watertown (NY)"
+  },
+  {
+    "code": "ARW",
+    "name": "Arad"
+  },
+  {
+    "code": "ASE",
+    "name": "Aspen"
+  },
+  {
+    "code": "ASF",
+    "name": "Astrakhan"
+  },
+  {
+    "code": "ASM",
+    "name": "Asmara"
+  },
+  {
+    "code": "ASR",
+    "name": "Kayseri"
+  },
+  {
+    "code": "ASW",
+    "name": "Aswan"
+  },
+  {
+    "code": "ATH",
+    "name": "Athen"
+  },
+  {
+    "code": "ATL",
+    "name": "Atlanta/William"
+  },
+  {
+    "code": "ATQ",
+    "name": "Amritsar"
+  },
+  {
+    "code": "ATY",
+    "name": "Watertown (SD)"
+  },
+  {
+    "code": "AUA",
+    "name": "Aruba"
+  },
+  {
+    "code": "AUF",
+    "name": "Auxerre/Moneteau"
+  },
+  {
+    "code": "AUH",
+    "name": "Abu Dhabi"
+  },
+  {
+    "code": "AUR",
+    "name": "Aurillac"
+  },
+  {
+    "code": "AUS",
+    "name": "Austin/Robert M"
+  },
+  {
+    "code": "AVB",
+    "name": "Aviano"
+  },
+  {
+    "code": "AVL",
+    "name": "Asheville"
+  },
+  {
+    "code": "AVN",
+    "name": "Avignon-Caumont"
+  },
+  {
+    "code": "AVP",
+    "name": "Scranton"
+  },
+  {
+    "code": "AXD",
+    "name": "Alexandroupolis"
+  },
+  {
+    "code": "AXP",
+    "name": "Spring Point"
+  },
+  {
+    "code": "AYK",
+    "name": "Arkalyk"
+  },
+  {
+    "code": "AYT",
+    "name": "Antalya"
+  },
+  {
+    "code": "AZN",
+    "name": "Andizhan"
+  },
+  {
+    "code": "AZO",
+    "name": "Kalamazoo"
+  },
+  {
+    "code": "AZS",
+    "name": "El Catey"
+  },
+  {
+    "code": "BAE",
+    "name": "Barcelonnette-Saint-Pons"
+  },
+  {
+    "code": "BAF",
+    "name": "Westfield/Barnes"
+  },
+  {
+    "code": "BAH",
+    "name": "Bahrain"
+  },
+  {
+    "code": "BAL",
+    "name": "Batman"
+  },
+  {
+    "code": "BAY",
+    "name": "Baia Mare"
+  },
+  {
+    "code": "BBH",
+    "name": "Barth"
+  },
+  {
+    "code": "BBP",
+    "name": "Bembridge"
+  },
+  {
+    "code": "BBS",
+    "name": "Blackbushe"
+  },
+  {
+    "code": "BCM",
+    "name": "Bacau"
+  },
+  {
+    "code": "BCN",
+    "name": "Barcelona"
+  },
+  {
+    "code": "BCS",
+    "name": "Belle Chasse"
+  },
+  {
+    "code": "BCT",
+    "name": "Boca Raton"
+  },
+  {
+    "code": "BDA",
+    "name": "Bermuda"
+  },
+  {
+    "code": "BDE",
+    "name": "Baudette"
+  },
+  {
+    "code": "BDM",
+    "name": "Balikesir Bandirma"
+  },
+  {
+    "code": "BDR",
+    "name": "Bridgeport/Igor I."
+  },
+  {
+    "code": "BDS",
+    "name": "Brindisi"
+  },
+  {
+    "code": "BDU",
+    "name": "Bardufoss"
+  },
+  {
+    "code": "BEB",
+    "name": "Benbecula"
+  },
+  {
+    "code": "BED",
+    "name": "Bedford"
+  },
+  {
+    "code": "BEG",
+    "name": "Beograd"
+  },
+  {
+    "code": "BER",
+    "name": "Berlin"
+  },
+  {
+    "code": "BES",
+    "name": "Brest"
+  },
+  {
+    "code": "BEV",
+    "name": "Beer-Sheba"
+  },
+  {
+    "code": "BEX",
+    "name": "Benson"
+  },
+  {
+    "code": "BEY",
+    "name": "Beirut"
+  },
+  {
+    "code": "BFD",
+    "name": "Bradford"
+  },
+  {
+    "code": "BFE",
+    "name": "Bielefeld"
+  },
+  {
+    "code": "BFF",
+    "name": "Scottsbluff"
+  },
+  {
+    "code": "BFI",
+    "name": "Seattle Boeing Field"
+  },
+  {
+    "code": "BFL",
+    "name": "Bakersfield"
+  },
+  {
+    "code": "BFS",
+    "name": "Belfast International"
+  },
+  {
+    "code": "BFT",
+    "name": "Beaufort"
+  },
+  {
+    "code": "BGC",
+    "name": "Braganca"
+  },
+  {
+    "code": "BGF",
+    "name": "Bangui"
+  },
+  {
+    "code": "BGI",
+    "name": "Barbados"
+  },
+  {
+    "code": "BGM",
+    "name": "Binghamton"
+  },
+  {
+    "code": "BGO",
+    "name": "Bergen"
+  },
+  {
+    "code": "BGR",
+    "name": "Bangor"
+  },
+  {
+    "code": "BGY",
+    "name": "Milano Bergamo"
+  },
+  {
+    "code": "BGZ",
+    "name": "Braga"
+  },
+  {
+    "code": "BHD",
+    "name": "Belfast City"
+  },
+  {
+    "code": "BHH",
+    "name": "Arar"
+  },
+  {
+    "code": "BHK",
+    "name": "Bukhara"
+  },
+  {
+    "code": "BHM",
+    "name": "Birmingham US"
+  },
+  {
+    "code": "BHX",
+    "name": "Birmingham"
+  },
+  {
+    "code": "BHZ",
+    "name": "Belo Horizonte Tancredo N"
+  },
+  {
+    "code": "BIA",
+    "name": "Bastia"
+  },
+  {
+    "code": "BIF",
+    "name": "El Paso Biggs AAF"
+  },
+  {
+    "code": "BIL",
+    "name": "Billings"
+  },
+  {
+    "code": "BIM",
+    "name": "Alice Town"
+  },
+  {
+    "code": "BIO",
+    "name": "Bilbao"
+  },
+  {
+    "code": "BIQ",
+    "name": "Biarritz"
+  },
+  {
+    "code": "BIS",
+    "name": "Bismarck"
+  },
+  {
+    "code": "BIX",
+    "name": "Biloxi/Keesler"
+  },
+  {
+    "code": "BJD",
+    "name": "Bakkafjordur"
+  },
+  {
+    "code": "BJF",
+    "name": "Båtsfjord"
+  },
+  {
+    "code": "BJL",
+    "name": "Banjul/Yundum"
+  },
+  {
+    "code": "BJS",
+    "name": "Beijing City"
+  },
+  {
+    "code": "BJV",
+    "name": "Bodrum/Milas"
+  },
+  {
+    "code": "BJZ",
+    "name": "Badajoz"
+  },
+  {
+    "code": "BKE",
+    "name": "Baker"
+  },
+  {
+    "code": "BKK",
+    "name": "Bangkok"
+  },
+  {
+    "code": "BKL",
+    "name": "Cleveland Burke Lakefront"
+  },
+  {
+    "code": "BKW",
+    "name": "Beckley"
+  },
+  {
+    "code": "BLE",
+    "name": "Borlange"
+  },
+  {
+    "code": "BLI",
+    "name": "Bellingham"
+  },
+  {
+    "code": "BLK",
+    "name": "Blackpool"
+  },
+  {
+    "code": "BLL",
+    "name": "Billund"
+  },
+  {
+    "code": "BLO",
+    "name": "Blonduos"
+  },
+  {
+    "code": "BLQ",
+    "name": "Bologna"
+  },
+  {
+    "code": "BLV",
+    "name": "Belleville"
+  },
+  {
+    "code": "BLX",
+    "name": "Belluno"
+  },
+  {
+    "code": "BLY",
+    "name": "Belmullet"
+  },
+  {
+    "code": "BMA",
+    "name": "Stockholm Bromma"
+  },
+  {
+    "code": "BMG",
+    "name": "Bloomington"
+  },
+  {
+    "code": "BMR",
+    "name": "Baltrum"
+  },
+  {
+    "code": "BNA",
+    "name": "Nashville"
+  },
+  {
+    "code": "BNN",
+    "name": "Brønnøysund"
+  },
+  {
+    "code": "BOB",
+    "name": "Bora Bora"
+  },
+  {
+    "code": "BOD",
+    "name": "Bordeaux"
+  },
+  {
+    "code": "BOF",
+    "name": "Washington Bolling"
+  },
+  {
+    "code": "BOH",
+    "name": "Bournemouth"
+  },
+  {
+    "code": "BOI",
+    "name": "Boise"
+  },
+  {
+    "code": "BOJ",
+    "name": "Burgas"
+  },
+  {
+    "code": "BOL",
+    "name": "Ballykelly"
+  },
+  {
+    "code": "BOM",
+    "name": "Mumbai"
+  },
+  {
+    "code": "BOO",
+    "name": "Bodø"
+  },
+  {
+    "code": "BOR",
+    "name": "Belfort/Chaux"
+  },
+  {
+    "code": "BOS",
+    "name": "Boston Logan Intl"
+  },
+  {
+    "code": "BOU",
+    "name": "Bourges"
+  },
+  {
+    "code": "BPT",
+    "name": "Beaumont"
+  },
+  {
+    "code": "BQH",
+    "name": "Biggin Hill"
+  },
+  {
+    "code": "BQK",
+    "name": "Brunswick Glynco J"
+  },
+  {
+    "code": "BRE",
+    "name": "Bremen"
+  },
+  {
+    "code": "BRG",
+    "name": "Kentucky"
+  },
+  {
+    "code": "BRI",
+    "name": "Bari"
+  },
+  {
+    "code": "BRL",
+    "name": "Burlington"
+  },
+  {
+    "code": "BRN",
+    "name": "Bern-Belp"
+  },
+  {
+    "code": "BRO",
+    "name": "Brownsville/South Pa"
+  },
+  {
+    "code": "BRQ",
+    "name": "Brno"
+  },
+  {
+    "code": "BRR",
+    "name": "Barra"
+  },
+  {
+    "code": "BRS",
+    "name": "Bristol"
+  },
+  {
+    "code": "BRU",
+    "name": "Brussel"
+  },
+  {
+    "code": "BRV",
+    "name": "Bremerhaven"
+  },
+  {
+    "code": "BSB",
+    "name": "Brasilia"
+  },
+  {
+    "code": "BSL",
+    "name": "Basel/Mulhouse/Freiburg"
+  },
+  {
+    "code": "BSM",
+    "name": "Austin"
+  },
+  {
+    "code": "BSR",
+    "name": "Basrah"
+  },
+  {
+    "code": "BTL",
+    "name": "Battle Creek"
+  },
+  {
+    "code": "BTM",
+    "name": "Butte"
+  },
+  {
+    "code": "BTR",
+    "name": "Baton Rouge"
+  },
+  {
+    "code": "BTS",
+    "name": "Bratislava"
+  },
+  {
+    "code": "BTV",
+    "name": "Burlington"
+  },
+  {
+    "code": "BTZ",
+    "name": "Bursa"
+  },
+  {
+    "code": "BUD",
+    "name": "Budapest"
+  },
+  {
+    "code": "BUF",
+    "name": "Buffalo/Greater"
+  },
+  {
+    "code": "BUH",
+    "name": "Bucuresti Baneasa"
+  },
+  {
+    "code": "BUR",
+    "name": "Burbank"
+  },
+  {
+    "code": "BVA",
+    "name": "Paris Beauvais"
+  },
+  {
+    "code": "BVB",
+    "name": "Boa Vista"
+  },
+  {
+    "code": "BVC",
+    "name": "Boa Vista"
+  },
+  {
+    "code": "BVE",
+    "name": "Brive La Gaillarde"
+  },
+  {
+    "code": "BVG",
+    "name": "Berlevåg"
+  },
+  {
+    "code": "BVY",
+    "name": "Beverly"
+  },
+  {
+    "code": "BWE",
+    "name": "Braunschweig"
+  },
+  {
+    "code": "BWF",
+    "name": "Barrow/Walney Island"
+  },
+  {
+    "code": "BWG",
+    "name": "Bowling Green/Warren C"
+  },
+  {
+    "code": "BWI",
+    "name": "Baltimore Washington Intl"
+  },
+  {
+    "code": "BWK",
+    "name": "Brac"
+  },
+  {
+    "code": "BXO",
+    "name": "Buochs Airport"
+  },
+  {
+    "code": "BYH",
+    "name": "Blytheville"
+  },
+  {
+    "code": "BYI",
+    "name": "Burley"
+  },
+  {
+    "code": "BYR",
+    "name": "Laeso"
+  },
+  {
+    "code": "BYS",
+    "name": "Fort Irwin/Bicycle"
+  },
+  {
+    "code": "BYT",
+    "name": "Bantry"
+  },
+  {
+    "code": "BYU",
+    "name": "Bayreuth"
+  },
+  {
+    "code": "BZG",
+    "name": "Bydgoszcz"
+  },
+  {
+    "code": "BZI",
+    "name": "Balikesir Edremit-Korfez"
+  },
+  {
+    "code": "BZM",
+    "name": "Bergen Op Zoom"
+  },
+  {
+    "code": "BZO",
+    "name": "Bolzano"
+  },
+  {
+    "code": "BZR",
+    "name": "Beziers-Vias"
+  },
+  {
+    "code": "BZZ",
+    "name": "Brize Norton"
+  },
+  {
+    "code": "CAE",
+    "name": "Colimbia Metropolitan"
+  },
+  {
+    "code": "CAG",
+    "name": "Cagliari"
+  },
+  {
+    "code": "CAI",
+    "name": "Kairo"
+  },
+  {
+    "code": "CAL",
+    "name": "Campbeltown"
+  },
+  {
+    "code": "CAR",
+    "name": "Caribou"
+  },
+  {
+    "code": "CAS",
+    "name": "Casablanca Anfa"
+  },
+  {
+    "code": "CAX",
+    "name": "Carlisle"
+  },
+  {
+    "code": "CBG",
+    "name": "Cambridge"
+  },
+  {
+    "code": "CBP",
+    "name": "Coimbra"
+  },
+  {
+    "code": "CBU",
+    "name": "Cottbus"
+  },
+  {
+    "code": "CCF",
+    "name": "Carcassonne"
+  },
+  {
+    "code": "CCU",
+    "name": "Kolkata"
+  },
+  {
+    "code": "CCZ",
+    "name": "Chub Cay, Berry I."
+  },
+  {
+    "code": "CDC",
+    "name": "Cedar City"
+  },
+  {
+    "code": "CDF",
+    "name": "Cortina"
+  },
+  {
+    "code": "CDG",
+    "name": "Paris Charles de Gaulle"
+  },
+  {
+    "code": "CDN",
+    "name": "Camden"
+  },
+  {
+    "code": "CEC",
+    "name": "Crescent City/Mc Namar"
+  },
+  {
+    "code": "CEF",
+    "name": "Springfield Westover"
+  },
+  {
+    "code": "CEI",
+    "name": "Chiang Rai"
+  },
+  {
+    "code": "CEL",
+    "name": "Cape Eleuthera, Eleuthera I."
+  },
+  {
+    "code": "CEQ",
+    "name": "Cannes Mandelieu"
+  },
+  {
+    "code": "CER",
+    "name": "Cherbourg"
+  },
+  {
+    "code": "CET",
+    "name": "Cholet-Le Pontreau"
+  },
+  {
+    "code": "CEW",
+    "name": "Crestview/Bob Sike"
+  },
+  {
+    "code": "CFE",
+    "name": "Clermont-Ferrand"
+  },
+  {
+    "code": "CFN",
+    "name": "Donegal"
+  },
+  {
+    "code": "CFR",
+    "name": "Caen"
+  },
+  {
+    "code": "CFU",
+    "name": "Korfu"
+  },
+  {
+    "code": "CGF",
+    "name": "Cleveland Cuyahoga"
+  },
+  {
+    "code": "CGH",
+    "name": "Sao Paulo Congonhas"
+  },
+  {
+    "code": "CGI",
+    "name": "Cape Girardeau"
+  },
+  {
+    "code": "CGN",
+    "name": "Køln Bonn"
+  },
+  {
+    "code": "CGO",
+    "name": "Zhengzhou Xinzheng"
+  },
+  {
+    "code": "CGX",
+    "name": "Chicago Merrill"
+  },
+  {
+    "code": "CHA",
+    "name": "Chattanooga"
+  },
+  {
+    "code": "CHC",
+    "name": "Christchurch"
+  },
+  {
+    "code": "CHD",
+    "name": "Chandler/Williams"
+  },
+  {
+    "code": "CHO",
+    "name": "Charlottesville"
+  },
+  {
+    "code": "CHQ",
+    "name": "Chania"
+  },
+  {
+    "code": "CHR",
+    "name": "Chateauroux/Villers"
+  },
+  {
+    "code": "CHS",
+    "name": "Charleston"
+  },
+  {
+    "code": "CHV",
+    "name": "Chaves"
+  },
+  {
+    "code": "CIA",
+    "name": "Roma Ciampino"
+  },
+  {
+    "code": "CID",
+    "name": "Cedar Rapids"
+  },
+  {
+    "code": "CIH",
+    "name": "Changzhi"
+  },
+  {
+    "code": "CIU",
+    "name": "Sault Ste Marie"
+  },
+  {
+    "code": "CJS",
+    "name": "Ciudad Juarez"
+  },
+  {
+    "code": "CKB",
+    "name": "Clarksburg"
+  },
+  {
+    "code": "CKZ",
+    "name": "Canakkale"
+  },
+  {
+    "code": "CLB",
+    "name": "Castlebar"
+  },
+  {
+    "code": "CLE",
+    "name": "Cleveland Hopkins"
+  },
+  {
+    "code": "CLJ",
+    "name": "Cluj"
+  },
+  {
+    "code": "CLL",
+    "name": "College Station"
+  },
+  {
+    "code": "CLM",
+    "name": "Port Angeles/Fairchild"
+  },
+  {
+    "code": "CLT",
+    "name": "Charlotte"
+  },
+  {
+    "code": "CLY",
+    "name": "Calvi"
+  },
+  {
+    "code": "CMF",
+    "name": "Chambery"
+  },
+  {
+    "code": "CMH",
+    "name": "Columbus Port Columbus Intl"
+  },
+  {
+    "code": "CMI",
+    "name": "Champaign/Willard"
+  },
+  {
+    "code": "CMN",
+    "name": "Casablanca Mohamed V"
+  },
+  {
+    "code": "CMR",
+    "name": "Colmar/Houssen"
+  },
+  {
+    "code": "CND",
+    "name": "Constanta"
+  },
+  {
+    "code": "CNG",
+    "name": "Cognac/Chateau Bernard"
+  },
+  {
+    "code": "CNM",
+    "name": "Carlsbad"
+  },
+  {
+    "code": "CNP",
+    "name": "Nerlerit Inaat/Constable Pynt"
+  },
+  {
+    "code": "CNX",
+    "name": "Chiang Mai"
+  },
+  {
+    "code": "COF",
+    "name": "Cocoa"
+  },
+  {
+    "code": "COH",
+    "name": "Cooch-Behar"
+  },
+  {
+    "code": "COS",
+    "name": "Colorado Springs"
+  },
+  {
+    "code": "COU",
+    "name": "Colimbia Regional"
+  },
+  {
+    "code": "COV",
+    "name": "Covilha"
+  },
+  {
+    "code": "COX",
+    "name": "Congo Town, Andros I."
+  },
+  {
+    "code": "CPH",
+    "name": "København"
+  },
+  {
+    "code": "CPT",
+    "name": "Cape Town"
+  },
+  {
+    "code": "CQF",
+    "name": "Calais/Dunkerque"
+  },
+  {
+    "code": "CQM",
+    "name": "Ciudad Real Airport"
+  },
+  {
+    "code": "CRA",
+    "name": "Craiova"
+  },
+  {
+    "code": "CRI",
+    "name": "Pittsdown Crooked Island"
+  },
+  {
+    "code": "CRK",
+    "name": "Clark"
+  },
+  {
+    "code": "CRL",
+    "name": "Brussel Sør/Charleroi"
+  },
+  {
+    "code": "CRP",
+    "name": "Corpus Christi International"
+  },
+  {
+    "code": "CRV",
+    "name": "Crotone"
+  },
+  {
+    "code": "CRW",
+    "name": "Charleston"
+  },
+  {
+    "code": "CRZ",
+    "name": "Chardzhou"
+  },
+  {
+    "code": "CSB",
+    "name": "Caransebes"
+  },
+  {
+    "code": "CSF",
+    "name": "Creil"
+  },
+  {
+    "code": "CSG",
+    "name": "Columbus Metropolitan"
+  },
+  {
+    "code": "CTA",
+    "name": "Catania"
+  },
+  {
+    "code": "CTB",
+    "name": "Cut Bank"
+  },
+  {
+    "code": "CTT",
+    "name": "Le Castellet"
+  },
+  {
+    "code": "CUF",
+    "name": "Cuneo/Levaldigi"
+  },
+  {
+    "code": "CUN",
+    "name": "Cancun"
+  },
+  {
+    "code": "CVF",
+    "name": "Courchevel"
+  },
+  {
+    "code": "CVO",
+    "name": "Corvallis"
+  },
+  {
+    "code": "CVS",
+    "name": "Clovis"
+  },
+  {
+    "code": "CVT",
+    "name": "Coventry"
+  },
+  {
+    "code": "CVU",
+    "name": "Corvo"
+  },
+  {
+    "code": "CWL",
+    "name": "Cardiff"
+  },
+  {
+    "code": "CXL",
+    "name": "Calexico"
+  },
+  {
+    "code": "CXO",
+    "name": "Conroe Montgomery"
+  },
+  {
+    "code": "CYS",
+    "name": "Cheyenne"
+  },
+  {
+    "code": "CZW",
+    "name": "Czesochowa/Ridniki"
+  },
+  {
+    "code": "DAA",
+    "name": "Fort Belvoir"
+  },
+  {
+    "code": "DAB",
+    "name": "Daytona Beach"
+  },
+  {
+    "code": "DAL",
+    "name": "Dallas Love Field"
+  },
+  {
+    "code": "DAM",
+    "name": "Damaskus"
+  },
+  {
+    "code": "DAN",
+    "name": "Danville"
+  },
+  {
+    "code": "DAY",
+    "name": "Dayton James Cox International"
+  },
+  {
+    "code": "DBQ",
+    "name": "Dubuque"
+  },
+  {
+    "code": "DBV",
+    "name": "Dubrovnik"
+  },
+  {
+    "code": "DCA",
+    "name": "Washington Dc National"
+  },
+  {
+    "code": "DCI",
+    "name": "Decimomannu"
+  },
+  {
+    "code": "DCM",
+    "name": "Castres"
+  },
+  {
+    "code": "DCT",
+    "name": "Duncan Town,Ragged I."
+  },
+  {
+    "code": "DDC",
+    "name": "Dodge City"
+  },
+  {
+    "code": "DEB",
+    "name": "Debrecen"
+  },
+  {
+    "code": "DEC",
+    "name": "Decatur"
+  },
+  {
+    "code": "DEL",
+    "name": "New Delhi"
+  },
+  {
+    "code": "DEN",
+    "name": "Denver"
+  },
+  {
+    "code": "DET",
+    "name": "Detroit City"
+  },
+  {
+    "code": "DFW",
+    "name": "Dallas Fort Worth"
+  },
+  {
+    "code": "DGP",
+    "name": "Daugavpils"
+  },
+  {
+    "code": "DHN",
+    "name": "Dothan"
+  },
+  {
+    "code": "DHR",
+    "name": "Den Helder/De Kooy"
+  },
+  {
+    "code": "DIA",
+    "name": "Doha Airport"
+  },
+  {
+    "code": "DIJ",
+    "name": "Dijon"
+  },
+  {
+    "code": "DIY",
+    "name": "Diyarbakir"
+  },
+  {
+    "code": "DJE",
+    "name": "Djerba"
+  },
+  {
+    "code": "DJU",
+    "name": "Djupivogur"
+  },
+  {
+    "code": "DLD",
+    "name": "Geilo"
+  },
+  {
+    "code": "DLE",
+    "name": "Dole/Tavaux"
+  },
+  {
+    "code": "DLH",
+    "name": "Duluth"
+  },
+  {
+    "code": "DLM",
+    "name": "Dalaman"
+  },
+  {
+    "code": "DMA",
+    "name": "Tucson Davis Monthan AFB"
+  },
+  {
+    "code": "DME",
+    "name": "Moskva Domodedovo"
+  },
+  {
+    "code": "DMM",
+    "name": "Dammam"
+  },
+  {
+    "code": "DMN",
+    "name": "Deming"
+  },
+  {
+    "code": "DND",
+    "name": "Dundee"
+  },
+  {
+    "code": "DNK",
+    "name": "Dnepropetrovsk"
+  },
+  {
+    "code": "DNR",
+    "name": "Dinard"
+  },
+  {
+    "code": "DNZ",
+    "name": "Denizli/Cardak"
+  },
+  {
+    "code": "DOH",
+    "name": "Doha"
+  },
+  {
+    "code": "DOL",
+    "name": "Deauville"
+  },
+  {
+    "code": "DOV",
+    "name": "Dover-Cheswold"
+  },
+  {
+    "code": "DPE",
+    "name": "Dieppe/Saint-Aubin"
+  },
+  {
+    "code": "DPN",
+    "name": "Nordpolen"
+  },
+  {
+    "code": "DRI",
+    "name": "De Ridder/Beaurega"
+  },
+  {
+    "code": "DRS",
+    "name": "Dresden"
+  },
+  {
+    "code": "DSE",
+    "name": "Dessie"
+  },
+  {
+    "code": "DSM",
+    "name": "Des Moines"
+  },
+  {
+    "code": "DTM",
+    "name": "Dortmund"
+  },
+  {
+    "code": "DUB",
+    "name": "Dublin"
+  },
+  {
+    "code": "DUJ",
+    "name": "Dubois/Jefferson"
+  },
+  {
+    "code": "DUR",
+    "name": "Durban"
+  },
+  {
+    "code": "DUS",
+    "name": "Dusseldorf"
+  },
+  {
+    "code": "DWC",
+    "name": "Dubai World Central"
+  },
+  {
+    "code": "DXB",
+    "name": "Dubai"
+  },
+  {
+    "code": "EAS",
+    "name": "San Sebastian"
+  },
+  {
+    "code": "EAU",
+    "name": "Eau Claire"
+  },
+  {
+    "code": "EBJ",
+    "name": "Esbjerg"
+  },
+  {
+    "code": "EBL",
+    "name": "Erbil"
+  },
+  {
+    "code": "EBM",
+    "name": "El Borma"
+  },
+  {
+    "code": "EBU",
+    "name": "Saint Etienne"
+  },
+  {
+    "code": "ECG",
+    "name": "Elizabeth City"
+  },
+  {
+    "code": "EDI",
+    "name": "Edinburgh"
+  },
+  {
+    "code": "EDW",
+    "name": "Edwards AFB"
+  },
+  {
+    "code": "EEN",
+    "name": "Keene/Dillant"
+  },
+  {
+    "code": "EFL",
+    "name": "Kefallinia"
+  },
+  {
+    "code": "EGC",
+    "name": "Bergerac"
+  },
+  {
+    "code": "EGS",
+    "name": "Egilsstadir"
+  },
+  {
+    "code": "EIB",
+    "name": "Eisenach"
+  },
+  {
+    "code": "EIN",
+    "name": "Eindhoven"
+  },
+  {
+    "code": "EIY",
+    "name": "Eyn-Yahav Airstrip"
+  },
+  {
+    "code": "EJH",
+    "name": "Wadi Ad Dawasir"
+  },
+  {
+    "code": "EKA",
+    "name": "Eureka Murray Field"
+  },
+  {
+    "code": "EKN",
+    "name": "Elkins"
+  },
+  {
+    "code": "EKO",
+    "name": "Elko"
+  },
+  {
+    "code": "EKT",
+    "name": "Eskilstuna"
+  },
+  {
+    "code": "ELD",
+    "name": "El Dorado/Goodwin"
+  },
+  {
+    "code": "ELH",
+    "name": "North Eleuthera"
+  },
+  {
+    "code": "ELM",
+    "name": "Elmira"
+  },
+  {
+    "code": "ELP",
+    "name": "El Paso"
+  },
+  {
+    "code": "ELQ",
+    "name": "Dhahran"
+  },
+  {
+    "code": "EMA",
+    "name": "Nottingham/East Midland"
+  },
+  {
+    "code": "EME",
+    "name": "Emden"
+  },
+  {
+    "code": "ENC",
+    "name": "Nancy-Essey"
+  },
+  {
+    "code": "END",
+    "name": "Enid/Vance AF"
+  },
+  {
+    "code": "ENF",
+    "name": "Enontekio"
+  },
+  {
+    "code": "ENK",
+    "name": "Enniskillen/St.Angelo"
+  },
+  {
+    "code": "ENS",
+    "name": "Enschede"
+  },
+  {
+    "code": "ENW",
+    "name": "Kenosha"
+  },
+  {
+    "code": "EPK",
+    "name": "Episkopi"
+  },
+  {
+    "code": "EPL",
+    "name": "Epinal-Mirecourt"
+  },
+  {
+    "code": "EQI",
+    "name": "Eday"
+  },
+  {
+    "code": "ERC",
+    "name": "Erzincan"
+  },
+  {
+    "code": "ERF",
+    "name": "Erfurt"
+  },
+  {
+    "code": "ERH",
+    "name": "Errachidia/Mouay Ali Cherif"
+  },
+  {
+    "code": "ERI",
+    "name": "Erie"
+  },
+  {
+    "code": "ERZ",
+    "name": "Erzurum"
+  },
+  {
+    "code": "ESB",
+    "name": "Ankara Esenboga"
+  },
+  {
+    "code": "ESH",
+    "name": "Shoreham"
+  },
+  {
+    "code": "ESK",
+    "name": "Eskisehir/Anadolu"
+  },
+  {
+    "code": "ESS",
+    "name": "Essen"
+  },
+  {
+    "code": "ESU",
+    "name": "Essaouira-Mogador"
+  },
+  {
+    "code": "ETH",
+    "name": "Eilat/J. Hozman Airport"
+  },
+  {
+    "code": "ETM",
+    "name": "Eilat-Ramon"
+  },
+  {
+    "code": "ETZ",
+    "name": "Metz/Nancy"
+  },
+  {
+    "code": "EUG",
+    "name": "Eugene"
+  },
+  {
+    "code": "EVE",
+    "name": "Harstad/Narvik"
+  },
+  {
+    "code": "EVG",
+    "name": "Sveg"
+  },
+  {
+    "code": "EVN",
+    "name": "Jerevan"
+  },
+  {
+    "code": "EVV",
+    "name": "Evansville/Dress Re"
+  },
+  {
+    "code": "EVX",
+    "name": "Evreux-Fauville"
+  },
+  {
+    "code": "EWB",
+    "name": "New Bedford"
+  },
+  {
+    "code": "EWN",
+    "name": "New Bern/Simmons"
+  },
+  {
+    "code": "EWR",
+    "name": "New York Newark"
+  },
+  {
+    "code": "EXT",
+    "name": "Exeter"
+  },
+  {
+    "code": "EYW",
+    "name": "Key West"
+  },
+  {
+    "code": "EZS",
+    "name": "Elazig"
+  },
+  {
+    "code": "FAB",
+    "name": "Farnborough"
+  },
+  {
+    "code": "FAE",
+    "name": "Færøyene"
+  },
+  {
+    "code": "FAG",
+    "name": "Fagurholsmyri"
+  },
+  {
+    "code": "FAN",
+    "name": "Farsund"
+  },
+  {
+    "code": "FAO",
+    "name": "Faro"
+  },
+  {
+    "code": "FAR",
+    "name": "Fargo/Hector F"
+  },
+  {
+    "code": "FAT",
+    "name": "Fresno"
+  },
+  {
+    "code": "FAY",
+    "name": "Fayetteville Municipal"
+  },
+  {
+    "code": "FBG",
+    "name": "Fort Bragg/Simmons"
+  },
+  {
+    "code": "FCA",
+    "name": "Kalispell"
+  },
+  {
+    "code": "FCN",
+    "name": "Nordholz - Naval"
+  },
+  {
+    "code": "FCO",
+    "name": "Roma Fiumicino"
+  },
+  {
+    "code": "FDE",
+    "name": "Førde"
+  },
+  {
+    "code": "FDH",
+    "name": "Friedrichshafen"
+  },
+  {
+    "code": "FEZ",
+    "name": "Fez"
+  },
+  {
+    "code": "FFD",
+    "name": "Fairford"
+  },
+  {
+    "code": "FFO",
+    "name": "Dayton Patterson"
+  },
+  {
+    "code": "FHU",
+    "name": "Fort Huachuca/Libby AA"
+  },
+  {
+    "code": "FIE",
+    "name": "Fair Isle"
+  },
+  {
+    "code": "FIN",
+    "name": "Finnmark"
+  },
+  {
+    "code": "FJE",
+    "name": "Blåfjell"
+  },
+  {
+    "code": "FLF",
+    "name": "Flensburg/Schaferhaus"
+  },
+  {
+    "code": "FLG",
+    "name": "Flagstaff/Pulliam"
+  },
+  {
+    "code": "FLL",
+    "name": "Fort Lauderdale - Miami"
+  },
+  {
+    "code": "FLO",
+    "name": "Florence"
+  },
+  {
+    "code": "FLR",
+    "name": "Firenze"
+  },
+  {
+    "code": "FLV",
+    "name": "Fort Leavenworth/Sherman"
+  },
+  {
+    "code": "FLW",
+    "name": "Azorene Flores"
+  },
+  {
+    "code": "FME",
+    "name": "Fort Meade/Tipton A"
+  },
+  {
+    "code": "FMM",
+    "name": "Allgau Memmingen"
+  },
+  {
+    "code": "FMO",
+    "name": "Munster"
+  },
+  {
+    "code": "FNC",
+    "name": "Funchal"
+  },
+  {
+    "code": "FNI",
+    "name": "Nimes"
+  },
+  {
+    "code": "FNT",
+    "name": "Flint/Bishop"
+  },
+  {
+    "code": "FOD",
+    "name": "Fort Dodge"
+  },
+  {
+    "code": "FOE",
+    "name": "Topeka"
+  },
+  {
+    "code": "FOG",
+    "name": "Foggia"
+  },
+  {
+    "code": "FOK",
+    "name": "Francis S. Gabreski Airport"
+  },
+  {
+    "code": "FOR",
+    "name": "Fortaleza"
+  },
+  {
+    "code": "FPM",
+    "name": "Melun"
+  },
+  {
+    "code": "FPO",
+    "name": "Freeport/Intl,Grand Bahama I"
+  },
+  {
+    "code": "FPR",
+    "name": "Fort Pierce/St Lucie"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt"
+  },
+  {
+    "code": "FRG",
+    "name": "Farmingdale"
+  },
+  {
+    "code": "FRI",
+    "name": "Fort Riley/Marshall"
+  },
+  {
+    "code": "FRL",
+    "name": "Forli"
+  },
+  {
+    "code": "FRO",
+    "name": "Florø"
+  },
+  {
+    "code": "FRU",
+    "name": "Manas"
+  },
+  {
+    "code": "FRZ",
+    "name": "Fritzlar"
+  },
+  {
+    "code": "FSC",
+    "name": "Figari Corsica"
+  },
+  {
+    "code": "FSD",
+    "name": "Sioux Falls"
+  },
+  {
+    "code": "FSI",
+    "name": "Fort Sill/Henry Po"
+  },
+  {
+    "code": "FSM",
+    "name": "Fort Smith"
+  },
+  {
+    "code": "FSP",
+    "name": "Floatel Superior"
+  },
+  {
+    "code": "FTW",
+    "name": "Fort Worth Meacham"
+  },
+  {
+    "code": "FTY",
+    "name": "Atlanta/Fulton C"
+  },
+  {
+    "code": "FUE",
+    "name": "Fuerteventura"
+  },
+  {
+    "code": "FUK",
+    "name": "Fukuoka"
+  },
+  {
+    "code": "FWA",
+    "name": "Fort Wayne"
+  },
+  {
+    "code": "FWH",
+    "name": "Fort Worth Carswell"
+  },
+  {
+    "code": "FYV",
+    "name": "Fayetteville Drake Field"
+  },
+  {
+    "code": "FZO",
+    "name": "Filton"
+  },
+  {
+    "code": "GAE",
+    "name": "Gabes"
+  },
+  {
+    "code": "GAF",
+    "name": "Gafsa"
+  },
+  {
+    "code": "GAL",
+    "name": "Galena"
+  },
+  {
+    "code": "GAN",
+    "name": "Gan Island"
+  },
+  {
+    "code": "GBI",
+    "name": "Grand Bahama"
+  },
+  {
+    "code": "GBJ",
+    "name": "Marie-Galante"
+  },
+  {
+    "code": "GCI",
+    "name": "Guernsey"
+  },
+  {
+    "code": "GCK",
+    "name": "Garden City"
+  },
+  {
+    "code": "GCN",
+    "name": "Grand Canyon"
+  },
+  {
+    "code": "GDN",
+    "name": "Gdansk"
+  },
+  {
+    "code": "GDX",
+    "name": "Magadan/Sokol"
+  },
+  {
+    "code": "GEG",
+    "name": "Spokane International"
+  },
+  {
+    "code": "GEV",
+    "name": "Gallivare"
+  },
+  {
+    "code": "GFA",
+    "name": "Great Falls Malmstrom AFB"
+  },
+  {
+    "code": "GFL",
+    "name": "Glens Falls/Warren C"
+  },
+  {
+    "code": "GFR",
+    "name": "Granville"
+  },
+  {
+    "code": "GGG",
+    "name": "Longview"
+  },
+  {
+    "code": "GGT",
+    "name": "George Town, Exuma I."
+  },
+  {
+    "code": "GGW",
+    "name": "Glasgow US"
+  },
+  {
+    "code": "GHC",
+    "name": "Bullocks Harbour"
+  },
+  {
+    "code": "GHF",
+    "name": "Giebelstadt"
+  },
+  {
+    "code": "GHK",
+    "name": "Gush Katif"
+  },
+  {
+    "code": "GHV",
+    "name": "Brasov-Ghimbav"
+  },
+  {
+    "code": "GIA",
+    "name": "Gap-Tallard"
+  },
+  {
+    "code": "GIB",
+    "name": "Gibraltar/North Fr"
+  },
+  {
+    "code": "GIG",
+    "name": "Rio De Janeiro Galeao"
+  },
+  {
+    "code": "GIZ",
+    "name": "Gassim"
+  },
+  {
+    "code": "GJR",
+    "name": "Gjogur"
+  },
+  {
+    "code": "GKB",
+    "name": "Bangalore"
+  },
+  {
+    "code": "GKE",
+    "name": "Geilenkirchen"
+  },
+  {
+    "code": "GLA",
+    "name": "Glasgow"
+  },
+  {
+    "code": "GLL",
+    "name": "Gol"
+  },
+  {
+    "code": "GLO",
+    "name": "Gloucestershire"
+  },
+  {
+    "code": "GLZ",
+    "name": "Breda/Gilze-Rijen"
+  },
+  {
+    "code": "GNB",
+    "name": "Grenoble"
+  },
+  {
+    "code": "GNV",
+    "name": "Gainesville/J R Alis"
+  },
+  {
+    "code": "GOA",
+    "name": "Genova"
+  },
+  {
+    "code": "GOH",
+    "name": "Nuuk/Godthaab"
+  },
+  {
+    "code": "GOI",
+    "name": "Goa"
+  },
+  {
+    "code": "GOJ",
+    "name": "Novgorod"
+  },
+  {
+    "code": "GON",
+    "name": "Groton"
+  },
+  {
+    "code": "GOT",
+    "name": "Gøteborg"
+  },
+  {
+    "code": "GOZ",
+    "name": "Gorna Orechovitsa"
+  },
+  {
+    "code": "GPA",
+    "name": "Patras/Araxos A"
+  },
+  {
+    "code": "GPT",
+    "name": "Gulfport/Biloxi R"
+  },
+  {
+    "code": "GRJ",
+    "name": "George Airport"
+  },
+  {
+    "code": "GRO",
+    "name": "Girona"
+  },
+  {
+    "code": "GRQ",
+    "name": "Groningen"
+  },
+  {
+    "code": "GRR",
+    "name": "Grand Rapids"
+  },
+  {
+    "code": "GRS",
+    "name": "Grosseto"
+  },
+  {
+    "code": "GRU",
+    "name": "Sao Paulo Guarulhos"
+  },
+  {
+    "code": "GRW",
+    "name": "Azorene GRW"
+  },
+  {
+    "code": "GRX",
+    "name": "Granada"
+  },
+  {
+    "code": "GRY",
+    "name": "Grimsey"
+  },
+  {
+    "code": "GRZ",
+    "name": "Graz"
+  },
+  {
+    "code": "GSB",
+    "name": "Goldsboro/Seymour"
+  },
+  {
+    "code": "GSE",
+    "name": "Gøteborg Save"
+  },
+  {
+    "code": "GSP",
+    "name": "Greenville Spartanburg Intl"
+  },
+  {
+    "code": "GTF",
+    "name": "Great Falls International"
+  },
+  {
+    "code": "GTW",
+    "name": "Zlin"
+  },
+  {
+    "code": "GUP",
+    "name": "Gallup/Senator"
+  },
+  {
+    "code": "GUS",
+    "name": "Peru"
+  },
+  {
+    "code": "GVA",
+    "name": "Geneve"
+  },
+  {
+    "code": "GVX",
+    "name": "Gavle"
+  },
+  {
+    "code": "GWO",
+    "name": "Greenwood Leflore"
+  },
+  {
+    "code": "GWT",
+    "name": "Westerland/Sylt"
+  },
+  {
+    "code": "GWY",
+    "name": "Galway Carnmore"
+  },
+  {
+    "code": "GYD",
+    "name": "Baku"
+  },
+  {
+    "code": "GYY",
+    "name": "Gary"
+  },
+  {
+    "code": "GZP",
+    "name": "Alanya/Gazipasa"
+  },
+  {
+    "code": "GZT",
+    "name": "Gaziantep"
+  },
+  {
+    "code": "HAA",
+    "name": "Hasvik"
+  },
+  {
+    "code": "HAD",
+    "name": "Halmstad"
+  },
+  {
+    "code": "HAJ",
+    "name": "Hannover"
+  },
+  {
+    "code": "HAM",
+    "name": "Hamburg"
+  },
+  {
+    "code": "HAN",
+    "name": "Hanoi"
+  },
+  {
+    "code": "HAQ",
+    "name": "Hanimaadhoo"
+  },
+  {
+    "code": "HAU",
+    "name": "Haugesund"
+  },
+  {
+    "code": "HAV",
+    "name": "Havana"
+  },
+  {
+    "code": "HAW",
+    "name": "Haverfordwest"
+  },
+  {
+    "code": "HDB",
+    "name": "Heidelberg"
+  },
+  {
+    "code": "HDF",
+    "name": "Heringsdorf"
+  },
+  {
+    "code": "HEL",
+    "name": "Helsinki"
+  },
+  {
+    "code": "HER",
+    "name": "Heraklion"
+  },
+  {
+    "code": "HFA",
+    "name": "Haifa"
+  },
+  {
+    "code": "HFD",
+    "name": "Hartford/Brainard"
+  },
+  {
+    "code": "HFN",
+    "name": "Hofn/Hornafjordur"
+  },
+  {
+    "code": "HFS",
+    "name": "Hagfors"
+  },
+  {
+    "code": "HFT",
+    "name": "Hammerfest"
+  },
+  {
+    "code": "HGL",
+    "name": "Helgoland-Dune"
+  },
+  {
+    "code": "HGR",
+    "name": "Hagerstown/Wash. Co"
+  },
+  {
+    "code": "HHN",
+    "name": "Frankfurt Hahn"
+  },
+  {
+    "code": "HHR",
+    "name": "Hawthorne"
+  },
+  {
+    "code": "HIB",
+    "name": "Hibbing/Chisholm"
+  },
+  {
+    "code": "HIF",
+    "name": "Ogden/Hill AFB"
+  },
+  {
+    "code": "HIJ",
+    "name": "Hiroshima"
+  },
+  {
+    "code": "HKG",
+    "name": "Hongkong"
+  },
+  {
+    "code": "HKT",
+    "name": "Phuket"
+  },
+  {
+    "code": "HKY",
+    "name": "Hickory"
+  },
+  {
+    "code": "HLF",
+    "name": "Hultsfred"
+  },
+  {
+    "code": "HLN",
+    "name": "Helena"
+  },
+  {
+    "code": "HLY",
+    "name": "Holyhead"
+  },
+  {
+    "code": "HMA",
+    "name": "Khanty-Mansiysk"
+  },
+  {
+    "code": "HMN",
+    "name": "Alamogordo"
+  },
+  {
+    "code": "HMR",
+    "name": "Hamar"
+  },
+  {
+    "code": "HMV",
+    "name": "Hemavan"
+  },
+  {
+    "code": "HND",
+    "name": "Tokyo Haneda"
+  },
+  {
+    "code": "HOD",
+    "name": "Hod"
+  },
+  {
+    "code": "HOF",
+    "name": "Hail"
+  },
+  {
+    "code": "HOH",
+    "name": "Hohenems"
+  },
+  {
+    "code": "HON",
+    "name": "Huron/Howes"
+  },
+  {
+    "code": "HOQ",
+    "name": "Hof"
+  },
+  {
+    "code": "HOR",
+    "name": "Azorene Horta"
+  },
+  {
+    "code": "HOU",
+    "name": "Houston Hobby"
+  },
+  {
+    "code": "HOV",
+    "name": "Ørsta/Volda"
+  },
+  {
+    "code": "HPN",
+    "name": "White Plains"
+  },
+  {
+    "code": "HQM",
+    "name": "Hoquiam/Bowerman"
+  },
+  {
+    "code": "HRD",
+    "name": "Harstad"
+  },
+  {
+    "code": "HRG",
+    "name": "Hurghada"
+  },
+  {
+    "code": "HRK",
+    "name": "Kharkov"
+  },
+  {
+    "code": "HRL",
+    "name": "Harlingen/Valley I"
+  },
+  {
+    "code": "HRO",
+    "name": "Harrison/Boone Co"
+  },
+  {
+    "code": "HST",
+    "name": "Homestead"
+  },
+  {
+    "code": "HSV",
+    "name": "Huntsville"
+  },
+  {
+    "code": "HTS",
+    "name": "Huntington"
+  },
+  {
+    "code": "HUA",
+    "name": "Huntsville/Redstone"
+  },
+  {
+    "code": "HUF",
+    "name": "Terre Haute"
+  },
+  {
+    "code": "HUV",
+    "name": "Hudiksvall"
+  },
+  {
+    "code": "HUY",
+    "name": "Humberside"
+  },
+  {
+    "code": "HVG",
+    "name": "Honningsvåg"
+  },
+  {
+    "code": "HVK",
+    "name": "Holmavik"
+  },
+  {
+    "code": "HVN",
+    "name": "New Haven"
+  },
+  {
+    "code": "HYA",
+    "name": "Hyannis Barnstable"
+  },
+  {
+    "code": "HYC",
+    "name": "High Wycombe"
+  },
+  {
+    "code": "HYV",
+    "name": "Hyvinkaa"
+  },
+  {
+    "code": "HZK",
+    "name": "Husavik"
+  },
+  {
+    "code": "IAD",
+    "name": "Washington Dulles"
+  },
+  {
+    "code": "IAG",
+    "name": "Niagara Falls"
+  },
+  {
+    "code": "IAH",
+    "name": "Houston"
+  },
+  {
+    "code": "IAS",
+    "name": "Iasi"
+  },
+  {
+    "code": "IBZ",
+    "name": "Ibiza"
+  },
+  {
+    "code": "ICN",
+    "name": "Seoul Inchon"
+  },
+  {
+    "code": "IDA",
+    "name": "Idaho Falls/Fanning"
+  },
+  {
+    "code": "IDB",
+    "name": "Idre"
+  },
+  {
+    "code": "IEG",
+    "name": "Zielona Gora"
+  },
+  {
+    "code": "IES",
+    "name": "Riesa-Gohlis"
+  },
+  {
+    "code": "IEV",
+    "name": "Kyiv Zhulyany"
+  },
+  {
+    "code": "IFJ",
+    "name": "Isafjordur"
+  },
+  {
+    "code": "IFO",
+    "name": "Ivano-Frankovsk"
+  },
+  {
+    "code": "IGA",
+    "name": "Inagua"
+  },
+  {
+    "code": "IGL",
+    "name": "Izmir Cigli"
+  },
+  {
+    "code": "IIA",
+    "name": "Inishmaan"
+  },
+  {
+    "code": "IKK",
+    "name": "Kankakee"
+  },
+  {
+    "code": "IKT",
+    "name": "Irkutsk"
+  },
+  {
+    "code": "ILF",
+    "name": "Ilford"
+  },
+  {
+    "code": "ILG",
+    "name": "Wilmington Greater"
+  },
+  {
+    "code": "ILH",
+    "name": "Illesheim"
+  },
+  {
+    "code": "ILM",
+    "name": "Wilmington International"
+  },
+  {
+    "code": "ILY",
+    "name": "Islay"
+  },
+  {
+    "code": "ILZ",
+    "name": "Zilina"
+  },
+  {
+    "code": "IND",
+    "name": "Indianapolis"
+  },
+  {
+    "code": "INI",
+    "name": "Nis"
+  },
+  {
+    "code": "INK",
+    "name": "Wink"
+  },
+  {
+    "code": "INN",
+    "name": "Innsbruck"
+  },
+  {
+    "code": "INQ",
+    "name": "Inisheer"
+  },
+  {
+    "code": "INT",
+    "name": "Winston Salem"
+  },
+  {
+    "code": "INV",
+    "name": "Inverness"
+  },
+  {
+    "code": "IOA",
+    "name": "Ioannina"
+  },
+  {
+    "code": "IOM",
+    "name": "Isle Of Man"
+  },
+  {
+    "code": "IOR",
+    "name": "Inishmore/Kilronan"
+  },
+  {
+    "code": "IPT",
+    "name": "Williamsport"
+  },
+  {
+    "code": "IRK",
+    "name": "Kirksville"
+  },
+  {
+    "code": "ISB",
+    "name": "Islamabad"
+  },
+  {
+    "code": "ISE",
+    "name": "Isparta/S.Demirel"
+  },
+  {
+    "code": "ISL",
+    "name": "Istanbul"
+  },
+  {
+    "code": "ISP",
+    "name": "Islip Long Island"
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul"
+  },
+  {
+    "code": "IUD",
+    "name": "Al Udeid"
+  },
+  {
+    "code": "IVL",
+    "name": "Ivalo"
+  },
+  {
+    "code": "JAC",
+    "name": "Jackson Hole"
+  },
+  {
+    "code": "JAN",
+    "name": "Jackson"
+  },
+  {
+    "code": "JAV",
+    "name": "Ilulissat/Jakobshavn"
+  },
+  {
+    "code": "JAX",
+    "name": "Jacksonville FL"
+  },
+  {
+    "code": "JBR",
+    "name": "Jonesboro"
+  },
+  {
+    "code": "JCH",
+    "name": "Qasigiannguit/Christianshaab"
+  },
+  {
+    "code": "JED",
+    "name": "Jeddah"
+  },
+  {
+    "code": "JEG",
+    "name": "Aasiaat/Egedesminde"
+  },
+  {
+    "code": "JEN",
+    "name": "Julestjernen"
+  },
+  {
+    "code": "JER",
+    "name": "Jersey"
+  },
+  {
+    "code": "JFK",
+    "name": "New York/JFK"
+  },
+  {
+    "code": "JFR",
+    "name": "Paamiut/Frederikshaab"
+  },
+  {
+    "code": "JGO",
+    "name": "Qeqertarsuaq/Godhavn"
+  },
+  {
+    "code": "JHS",
+    "name": "Sisimiut/Holsteinsborg"
+  },
+  {
+    "code": "JIK",
+    "name": "Ikaria"
+  },
+  {
+    "code": "JJN",
+    "name": "Jinjiang"
+  },
+  {
+    "code": "JJU",
+    "name": "Qaqortoq/Julianehaab"
+  },
+  {
+    "code": "JKG",
+    "name": "Jønkøping"
+  },
+  {
+    "code": "JKH",
+    "name": "Chios"
+  },
+  {
+    "code": "JKT",
+    "name": "Jakarta"
+  },
+  {
+    "code": "JLN",
+    "name": "Joplin"
+  },
+  {
+    "code": "JMK",
+    "name": "Mykonos"
+  },
+  {
+    "code": "JMS",
+    "name": "Jamestown"
+  },
+  {
+    "code": "JNB",
+    "name": "Johannesburg"
+  },
+  {
+    "code": "JNN",
+    "name": "Nanortalik"
+  },
+  {
+    "code": "JNX",
+    "name": "Naxos"
+  },
+  {
+    "code": "JOE",
+    "name": "Joensuu"
+  },
+  {
+    "code": "JRK",
+    "name": "Arsuk"
+  },
+  {
+    "code": "JSH",
+    "name": "Sitia"
+  },
+  {
+    "code": "JSI",
+    "name": "Skiathos"
+  },
+  {
+    "code": "JST",
+    "name": "Johnstown"
+  },
+  {
+    "code": "JSU",
+    "name": "Maniitsoq"
+  },
+  {
+    "code": "JSY",
+    "name": "Syros"
+  },
+  {
+    "code": "JTR",
+    "name": "Santorini"
+  },
+  {
+    "code": "JTY",
+    "name": "Astypalaia"
+  },
+  {
+    "code": "JUI",
+    "name": "Juist"
+  },
+  {
+    "code": "JUL",
+    "name": "Reisen til julestjernen"
+  },
+  {
+    "code": "JXN",
+    "name": "Jackson/Reynolds"
+  },
+  {
+    "code": "JYV",
+    "name": "Jyvaskyla"
+  },
+  {
+    "code": "KAJ",
+    "name": "Kajaani"
+  },
+  {
+    "code": "KAO",
+    "name": "Kuusamo"
+  },
+  {
+    "code": "KAU",
+    "name": "Kauhava"
+  },
+  {
+    "code": "KBL",
+    "name": "Kabul"
+  },
+  {
+    "code": "KBP",
+    "name": "Kyiv Boryspil"
+  },
+  {
+    "code": "KBV",
+    "name": "Krabi"
+  },
+  {
+    "code": "KCM",
+    "name": "Kahramanmaras"
+  },
+  {
+    "code": "KDL",
+    "name": "Kardla"
+  },
+  {
+    "code": "KDM",
+    "name": "Kaadedhdhoo"
+  },
+  {
+    "code": "KDO",
+    "name": "Kadhdhoo"
+  },
+  {
+    "code": "KEF",
+    "name": "Reykjavik"
+  },
+  {
+    "code": "KEL",
+    "name": "Kiel"
+  },
+  {
+    "code": "KEM",
+    "name": "Kemi/Tornio"
+  },
+  {
+    "code": "KES",
+    "name": "Kelsey"
+  },
+  {
+    "code": "KEV",
+    "name": "Kuorevesi"
+  },
+  {
+    "code": "KGD",
+    "name": "Kaliningrad"
+  },
+  {
+    "code": "KGF",
+    "name": "Karaganda"
+  },
+  {
+    "code": "KGS",
+    "name": "Kos"
+  },
+  {
+    "code": "KHI",
+    "name": "Karachi"
+  },
+  {
+    "code": "KHJ",
+    "name": "Kauhajoki"
+  },
+  {
+    "code": "KHN",
+    "name": "Nanchang"
+  },
+  {
+    "code": "KID",
+    "name": "Kristianstad"
+  },
+  {
+    "code": "KIN",
+    "name": "Kingston Norman Manley"
+  },
+  {
+    "code": "KIR",
+    "name": "Kerry Farranfore"
+  },
+  {
+    "code": "KIT",
+    "name": "Kithira"
+  },
+  {
+    "code": "KIV",
+    "name": "Kishinev"
+  },
+  {
+    "code": "KIX",
+    "name": "Osaka Kansai"
+  },
+  {
+    "code": "KJK",
+    "name": "Kortrijk"
+  },
+  {
+    "code": "KKC",
+    "name": "Khon Kaen"
+  },
+  {
+    "code": "KKN",
+    "name": "Kirkenes"
+  },
+  {
+    "code": "KKY",
+    "name": "Kilkenny"
+  },
+  {
+    "code": "KLI",
+    "name": "Kaiserslautern"
+  },
+  {
+    "code": "KLJ",
+    "name": "Klaipeda"
+  },
+  {
+    "code": "KLR",
+    "name": "Kalmar"
+  },
+  {
+    "code": "KLU",
+    "name": "Klagenfurt"
+  },
+  {
+    "code": "KLV",
+    "name": "Karlovy Vary"
+  },
+  {
+    "code": "KLX",
+    "name": "Kalamata"
+  },
+  {
+    "code": "KOI",
+    "name": "Kirkwall, Orkney Islands"
+  },
+  {
+    "code": "KOJ",
+    "name": "Kagoshima"
+  },
+  {
+    "code": "KOK",
+    "name": "Kokkola/Pietarsaari"
+  },
+  {
+    "code": "KRF",
+    "name": "Kramfors"
+  },
+  {
+    "code": "KRH",
+    "name": "Redhill"
+  },
+  {
+    "code": "KRK",
+    "name": "Krakow"
+  },
+  {
+    "code": "KRN",
+    "name": "Kiruna"
+  },
+  {
+    "code": "KRP",
+    "name": "Karup"
+  },
+  {
+    "code": "KRR",
+    "name": "Krasnodar"
+  },
+  {
+    "code": "KRS",
+    "name": "Kristiansand"
+  },
+  {
+    "code": "KSC",
+    "name": "Kosice/Barca"
+  },
+  {
+    "code": "KSD",
+    "name": "Karlstad"
+  },
+  {
+    "code": "KSF",
+    "name": "Kassel"
+  },
+  {
+    "code": "KSJ",
+    "name": "Kasos"
+  },
+  {
+    "code": "KSK",
+    "name": "Karlskoga"
+  },
+  {
+    "code": "KSO",
+    "name": "Kastoria"
+  },
+  {
+    "code": "KSU",
+    "name": "Kristiansund"
+  },
+  {
+    "code": "KSW",
+    "name": "Kiryat Shmona"
+  },
+  {
+    "code": "KSY",
+    "name": "Kars"
+  },
+  {
+    "code": "KTP",
+    "name": "Kingston Tinson"
+  },
+  {
+    "code": "KTQ",
+    "name": "Kitee"
+  },
+  {
+    "code": "KTT",
+    "name": "Kittila"
+  },
+  {
+    "code": "KTW",
+    "name": "Katowice"
+  },
+  {
+    "code": "KUA",
+    "name": "Kuantan"
+  },
+  {
+    "code": "KUL",
+    "name": "Kuala Lumpur"
+  },
+  {
+    "code": "KUN",
+    "name": "Kaunas"
+  },
+  {
+    "code": "KUO",
+    "name": "Kuopio"
+  },
+  {
+    "code": "KUS",
+    "name": "Kulusuk"
+  },
+  {
+    "code": "KVA",
+    "name": "Kavala"
+  },
+  {
+    "code": "KVB",
+    "name": "Skøvde"
+  },
+  {
+    "code": "KVX",
+    "name": "Kirov"
+  },
+  {
+    "code": "KWI",
+    "name": "Kuwait"
+  },
+  {
+    "code": "KYA",
+    "name": "Konya"
+  },
+  {
+    "code": "KZG",
+    "name": "Kitzingen"
+  },
+  {
+    "code": "KZI",
+    "name": "Kozani/Filippos"
+  },
+  {
+    "code": "KZN",
+    "name": "Kazan"
+  },
+  {
+    "code": "KZS",
+    "name": "Kastelorizo"
+  },
+  {
+    "code": "LAF",
+    "name": "Lafayette/Purdue U"
+  },
+  {
+    "code": "LAI",
+    "name": "Lannion"
+  },
+  {
+    "code": "LAL",
+    "name": "Lakeland"
+  },
+  {
+    "code": "LAN",
+    "name": "Lansing"
+  },
+  {
+    "code": "LAR",
+    "name": "Laramie"
+  },
+  {
+    "code": "LAS",
+    "name": "Las Vegas Mc Carran"
+  },
+  {
+    "code": "LAX",
+    "name": "Los Angeles"
+  },
+  {
+    "code": "LBA",
+    "name": "Leeds/Bradford"
+  },
+  {
+    "code": "LBB",
+    "name": "Lubbock International"
+  },
+  {
+    "code": "LBC",
+    "name": "Hamburg Lubeck"
+  },
+  {
+    "code": "LBD",
+    "name": "Khudzhand"
+  },
+  {
+    "code": "LBE",
+    "name": "Latrobe/Westmore"
+  },
+  {
+    "code": "LBG",
+    "name": "Le Bourget"
+  },
+  {
+    "code": "LBI",
+    "name": "Albi"
+  },
+  {
+    "code": "LBL",
+    "name": "Liberal"
+  },
+  {
+    "code": "LBY",
+    "name": "La Baule-Escoublac"
+  },
+  {
+    "code": "LCA",
+    "name": "Larnaca"
+  },
+  {
+    "code": "LCC",
+    "name": "Lecce/Lepore"
+  },
+  {
+    "code": "LCG",
+    "name": "La Coruna"
+  },
+  {
+    "code": "LCH",
+    "name": "Lake Charles"
+  },
+  {
+    "code": "LCJ",
+    "name": "Lodz"
+  },
+  {
+    "code": "LCK",
+    "name": "Columbus Rickenbacker"
+  },
+  {
+    "code": "LCV",
+    "name": "Lucca/Tassignano"
+  },
+  {
+    "code": "LCY",
+    "name": "London City"
+  },
+  {
+    "code": "LDE",
+    "name": "Lourdes/Tarbes"
+  },
+  {
+    "code": "LDK",
+    "name": "Lidkøping"
+  },
+  {
+    "code": "LDV",
+    "name": "Landivisiau"
+  },
+  {
+    "code": "LDY",
+    "name": "Londonderry"
+  },
+  {
+    "code": "LEB",
+    "name": "Lebanon"
+  },
+  {
+    "code": "LED",
+    "name": "St. Petersburg"
+  },
+  {
+    "code": "LEH",
+    "name": "Le Havre"
+  },
+  {
+    "code": "LEI",
+    "name": "Almeria"
+  },
+  {
+    "code": "LEJ",
+    "name": "Leipzig"
+  },
+  {
+    "code": "LEQ",
+    "name": "Lands End/St.Just"
+  },
+  {
+    "code": "LEU",
+    "name": "Seo De Urgel"
+  },
+  {
+    "code": "LEX",
+    "name": "Lexington"
+  },
+  {
+    "code": "LEY",
+    "name": "Lelystad"
+  },
+  {
+    "code": "LFI",
+    "name": "Hampton/Langley"
+  },
+  {
+    "code": "LFT",
+    "name": "Lafayette"
+  },
+  {
+    "code": "LGA",
+    "name": "New York La Guardia"
+  },
+  {
+    "code": "LGB",
+    "name": "Long Beach"
+  },
+  {
+    "code": "LGG",
+    "name": "Liege"
+  },
+  {
+    "code": "LGO",
+    "name": "Langeoog"
+  },
+  {
+    "code": "LGW",
+    "name": "London Gatwick"
+  },
+  {
+    "code": "LHA",
+    "name": "Lahr"
+  },
+  {
+    "code": "LHE",
+    "name": "Lahore"
+  },
+  {
+    "code": "LHR",
+    "name": "London Heathrow"
+  },
+  {
+    "code": "LID",
+    "name": "Leiden"
+  },
+  {
+    "code": "LIG",
+    "name": "Limoges"
+  },
+  {
+    "code": "LIL",
+    "name": "Lille"
+  },
+  {
+    "code": "LIN",
+    "name": "Milano Linate"
+  },
+  {
+    "code": "LIS",
+    "name": "Lisboa"
+  },
+  {
+    "code": "LJU",
+    "name": "Ljubljana"
+  },
+  {
+    "code": "LKL",
+    "name": "Lakselv"
+  },
+  {
+    "code": "LKN",
+    "name": "Leknes"
+  },
+  {
+    "code": "LLA",
+    "name": "Luleå"
+  },
+  {
+    "code": "LME",
+    "name": "Le Mans-Arnage"
+  },
+  {
+    "code": "LMO",
+    "name": "Lossiemouth"
+  },
+  {
+    "code": "LMP",
+    "name": "Lampedusa"
+  },
+  {
+    "code": "LMT",
+    "name": "Klamath Falls/Kingsley"
+  },
+  {
+    "code": "LNK",
+    "name": "Lincoln"
+  },
+  {
+    "code": "LNS",
+    "name": "Lancaster"
+  },
+  {
+    "code": "LNZ",
+    "name": "Linz"
+  },
+  {
+    "code": "LON",
+    "name": "London"
+  },
+  {
+    "code": "LOS",
+    "name": "Lagos"
+  },
+  {
+    "code": "LOU",
+    "name": "Louisville Bowman Field"
+  },
+  {
+    "code": "LOZ",
+    "name": "London US"
+  },
+  {
+    "code": "LPA",
+    "name": "Gran Canaria"
+  },
+  {
+    "code": "LPI",
+    "name": "Linkøping"
+  },
+  {
+    "code": "LPL",
+    "name": "Liverpool"
+  },
+  {
+    "code": "LPP",
+    "name": "Lappeenranta"
+  },
+  {
+    "code": "LPT",
+    "name": "Lampang"
+  },
+  {
+    "code": "LPX",
+    "name": "Liepaya"
+  },
+  {
+    "code": "LPY",
+    "name": "Le Puy/Loudes"
+  },
+  {
+    "code": "LRA",
+    "name": "Larisa"
+  },
+  {
+    "code": "LRC",
+    "name": "Laarbruch"
+  },
+  {
+    "code": "LRD",
+    "name": "Laredo"
+  },
+  {
+    "code": "LRH",
+    "name": "La Rochelle"
+  },
+  {
+    "code": "LRS",
+    "name": "Leros"
+  },
+  {
+    "code": "LRT",
+    "name": "Lorient"
+  },
+  {
+    "code": "LRU",
+    "name": "Las Cruces"
+  },
+  {
+    "code": "LSE",
+    "name": "La Crosse"
+  },
+  {
+    "code": "LSF",
+    "name": "Fort Benning/Lawson A"
+  },
+  {
+    "code": "LSI",
+    "name": "Shetland"
+  },
+  {
+    "code": "LSV",
+    "name": "Las Vegas Nellis AFB"
+  },
+  {
+    "code": "LTH",
+    "name": "Lathorp Wells"
+  },
+  {
+    "code": "LTN",
+    "name": "London Luton"
+  },
+  {
+    "code": "LTQ",
+    "name": "Le Touquet/Paris-Plage"
+  },
+  {
+    "code": "LTS",
+    "name": "Altus"
+  },
+  {
+    "code": "LUG",
+    "name": "Lugano"
+  },
+  {
+    "code": "LUK",
+    "name": "Cincinnati"
+  },
+  {
+    "code": "LUX",
+    "name": "Luxembourg"
+  },
+  {
+    "code": "LUZ",
+    "name": "Lublin"
+  },
+  {
+    "code": "LVA",
+    "name": "Laval-Entrammes"
+  },
+  {
+    "code": "LVM",
+    "name": "Livingston"
+  },
+  {
+    "code": "LVN",
+    "name": "Låven"
+  },
+  {
+    "code": "LWM",
+    "name": "Lawrence"
+  },
+  {
+    "code": "LWO",
+    "name": "Lvov"
+  },
+  {
+    "code": "LWR",
+    "name": "Leeuwarden"
+  },
+  {
+    "code": "LWT",
+    "name": "Lewistown"
+  },
+  {
+    "code": "LXR",
+    "name": "Luxor"
+  },
+  {
+    "code": "LXS",
+    "name": "Lemnos"
+  },
+  {
+    "code": "LYC",
+    "name": "Lycksele"
+  },
+  {
+    "code": "LYE",
+    "name": "Lyneham"
+  },
+  {
+    "code": "LYH",
+    "name": "Lynchburg"
+  },
+  {
+    "code": "LYN",
+    "name": "Lyon Bron"
+  },
+  {
+    "code": "LYR",
+    "name": "Longyearbyen"
+  },
+  {
+    "code": "LYS",
+    "name": "Lyon"
+  },
+  {
+    "code": "LYU",
+    "name": "Ely"
+  },
+  {
+    "code": "LYX",
+    "name": "Lydd"
+  },
+  {
+    "code": "MAA",
+    "name": "Madras"
+  },
+  {
+    "code": "MAD",
+    "name": "Madrid"
+  },
+  {
+    "code": "MAF",
+    "name": "Midland"
+  },
+  {
+    "code": "MAH",
+    "name": "Menorca"
+  },
+  {
+    "code": "MAN",
+    "name": "Manchester"
+  },
+  {
+    "code": "MBD",
+    "name": "Mmabatho"
+  },
+  {
+    "code": "MBJ",
+    "name": "Montego Bay"
+  },
+  {
+    "code": "MBS",
+    "name": "Saginaw"
+  },
+  {
+    "code": "MBX",
+    "name": "Maribor"
+  },
+  {
+    "code": "MCC",
+    "name": "Sacramento Mcclellan AFB"
+  },
+  {
+    "code": "MCF",
+    "name": "Tampa Mac Dill AFB"
+  },
+  {
+    "code": "MCI",
+    "name": "Kansas City"
+  },
+  {
+    "code": "MCM",
+    "name": "Monte Carlo"
+  },
+  {
+    "code": "MCN",
+    "name": "Macon"
+  },
+  {
+    "code": "MCO",
+    "name": "Orlando International"
+  },
+  {
+    "code": "MCQ",
+    "name": "Miskolc"
+  },
+  {
+    "code": "MCT",
+    "name": "Muscat"
+  },
+  {
+    "code": "MCU",
+    "name": "Montlucon-Gueret"
+  },
+  {
+    "code": "MDT",
+    "name": "Harrisburg"
+  },
+  {
+    "code": "MDW",
+    "name": "Chicago Midway"
+  },
+  {
+    "code": "MED",
+    "name": "Medina"
+  },
+  {
+    "code": "MEH",
+    "name": "Mehamn"
+  },
+  {
+    "code": "MEI",
+    "name": "Meridian"
+  },
+  {
+    "code": "MEM",
+    "name": "Memphis"
+  },
+  {
+    "code": "MEN",
+    "name": "Mende-Brenoux"
+  },
+  {
+    "code": "MER",
+    "name": "Atwater Castle AFB"
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico City"
+  },
+  {
+    "code": "MFE",
+    "name": "Mcallen/Miller I"
+  },
+  {
+    "code": "MFR",
+    "name": "Medford"
+  },
+  {
+    "code": "MFX",
+    "name": "Meribel"
+  },
+  {
+    "code": "MGE",
+    "name": "Marietta"
+  },
+  {
+    "code": "MGM",
+    "name": "Montgomery Dannelly"
+  },
+  {
+    "code": "MGW",
+    "name": "Morgantown"
+  },
+  {
+    "code": "MHG",
+    "name": "Mannheim"
+  },
+  {
+    "code": "MHH",
+    "name": "Marsh Harbour, Abaco I."
+  },
+  {
+    "code": "MHK",
+    "name": "Manhattan"
+  },
+  {
+    "code": "MHP",
+    "name": "Minsk International 1"
+  },
+  {
+    "code": "MHQ",
+    "name": "Mariehamn"
+  },
+  {
+    "code": "MHT",
+    "name": "Manchester US"
+  },
+  {
+    "code": "MHZ",
+    "name": "Mildenhall"
+  },
+  {
+    "code": "MIA",
+    "name": "Miami"
+  },
+  {
+    "code": "MIE",
+    "name": "Muncie"
+  },
+  {
+    "code": "MIK",
+    "name": "Mikkeli"
+  },
+  {
+    "code": "MIL",
+    "name": "Milano"
+  },
+  {
+    "code": "MIP",
+    "name": "Mitzpe-Ramon Airstrip"
+  },
+  {
+    "code": "MIR",
+    "name": "Monastir"
+  },
+  {
+    "code": "MJF",
+    "name": "Mosjøen"
+  },
+  {
+    "code": "MJT",
+    "name": "Mytilini"
+  },
+  {
+    "code": "MJV",
+    "name": "Murcia"
+  },
+  {
+    "code": "MKA",
+    "name": "Marianske Lazne"
+  },
+  {
+    "code": "MKC",
+    "name": "Kansas  Downtown"
+  },
+  {
+    "code": "MKE",
+    "name": "Milwaukee"
+  },
+  {
+    "code": "MKG",
+    "name": "Muskegon"
+  },
+  {
+    "code": "MKL",
+    "name": "Jackson/Mckellar"
+  },
+  {
+    "code": "MKZ",
+    "name": "Malacca/Batu Ber"
+  },
+  {
+    "code": "MLA",
+    "name": "Malta"
+  },
+  {
+    "code": "MLB",
+    "name": "Melbourne US"
+  },
+  {
+    "code": "MLC",
+    "name": "Mc Alester"
+  },
+  {
+    "code": "MLE",
+    "name": "Male"
+  },
+  {
+    "code": "MLH",
+    "name": "Mulhouse"
+  },
+  {
+    "code": "MLI",
+    "name": "Moline/Quad-Cit"
+  },
+  {
+    "code": "MLN",
+    "name": "Melilla"
+  },
+  {
+    "code": "MLO",
+    "name": "Milos"
+  },
+  {
+    "code": "MLU",
+    "name": "Monroe"
+  },
+  {
+    "code": "MLX",
+    "name": "Malatya/Erhac"
+  },
+  {
+    "code": "MMA",
+    "name": "Malmø"
+  },
+  {
+    "code": "MME",
+    "name": "Teesside"
+  },
+  {
+    "code": "MMK",
+    "name": "Murmansk"
+  },
+  {
+    "code": "MMU",
+    "name": "Morristown"
+  },
+  {
+    "code": "MMX",
+    "name": "Malmø"
+  },
+  {
+    "code": "MNL",
+    "name": "Manila"
+  },
+  {
+    "code": "MOD",
+    "name": "Modesto"
+  },
+  {
+    "code": "MOL",
+    "name": "Molde"
+  },
+  {
+    "code": "MON",
+    "name": "Mount Cook"
+  },
+  {
+    "code": "MOT",
+    "name": "Minot"
+  },
+  {
+    "code": "MOW",
+    "name": "Moskva"
+  },
+  {
+    "code": "MPL",
+    "name": "Montpellier"
+  },
+  {
+    "code": "MQC",
+    "name": "Miquelon"
+  },
+  {
+    "code": "MQN",
+    "name": "Mo i Rana"
+  },
+  {
+    "code": "MQT",
+    "name": "Marquette"
+  },
+  {
+    "code": "MQY",
+    "name": "Smyrna"
+  },
+  {
+    "code": "MRB",
+    "name": "Martinsburg"
+  },
+  {
+    "code": "MRS",
+    "name": "Marseille"
+  },
+  {
+    "code": "MRU",
+    "name": "Mauritius"
+  },
+  {
+    "code": "MRY",
+    "name": "Monterey"
+  },
+  {
+    "code": "MSE",
+    "name": "Manston"
+  },
+  {
+    "code": "MSN",
+    "name": "Madison"
+  },
+  {
+    "code": "MSO",
+    "name": "Missoula"
+  },
+  {
+    "code": "MSP",
+    "name": "Minneapolis"
+  },
+  {
+    "code": "MSQ",
+    "name": "Minsk International 2"
+  },
+  {
+    "code": "MSR",
+    "name": "Mus"
+  },
+  {
+    "code": "MSS",
+    "name": "Massena/Richards"
+  },
+  {
+    "code": "MST",
+    "name": "Maastricht"
+  },
+  {
+    "code": "MSY",
+    "name": "New Orleans"
+  },
+  {
+    "code": "MTN",
+    "name": "Baltimore/Glenn L Martin"
+  },
+  {
+    "code": "MUC",
+    "name": "Munchen"
+  },
+  {
+    "code": "MUH",
+    "name": "Mersa"
+  },
+  {
+    "code": "MUI",
+    "name": "Fort Indiantown/Muir AAF"
+  },
+  {
+    "code": "MUO",
+    "name": "Mountain Home AFB"
+  },
+  {
+    "code": "MVQ",
+    "name": "Mogilev"
+  },
+  {
+    "code": "MVV",
+    "name": "Megeve"
+  },
+  {
+    "code": "MXF",
+    "name": "Montgomery Maxwell"
+  },
+  {
+    "code": "MXN",
+    "name": "Morlaix-Ploujean"
+  },
+  {
+    "code": "MXP",
+    "name": "Milano Malpensa"
+  },
+  {
+    "code": "MXX",
+    "name": "Mora"
+  },
+  {
+    "code": "MYG",
+    "name": "Mayaguana"
+  },
+  {
+    "code": "MYR",
+    "name": "Myrtle Beach"
+  },
+  {
+    "code": "MYV",
+    "name": "Marysville/Yuba Cou"
+  },
+  {
+    "code": "NAP",
+    "name": "Napoli"
+  },
+  {
+    "code": "NAQ",
+    "name": "Qaanaaq"
+  },
+  {
+    "code": "NAS",
+    "name": "Nassau"
+  },
+  {
+    "code": "NAW",
+    "name": "Narathiwat"
+  },
+  {
+    "code": "NBE",
+    "name": "Enfidha"
+  },
+  {
+    "code": "NBG",
+    "name": "New Orleans Alvin Callendar"
+  },
+  {
+    "code": "NCE",
+    "name": "Nice"
+  },
+  {
+    "code": "NCL",
+    "name": "Newcastle"
+  },
+  {
+    "code": "NCY",
+    "name": "Annecy"
+  },
+  {
+    "code": "NDB",
+    "name": "Nouadhibou"
+  },
+  {
+    "code": "NDJ",
+    "name": "Ndjamena"
+  },
+  {
+    "code": "NDR",
+    "name": "Nador"
+  },
+  {
+    "code": "NDY",
+    "name": "Sanday"
+  },
+  {
+    "code": "NDZ",
+    "name": "Nordholz - Spieka"
+  },
+  {
+    "code": "NEG",
+    "name": "Negril"
+  },
+  {
+    "code": "NEL",
+    "name": "Lakehurst/Naec"
+  },
+  {
+    "code": "NET",
+    "name": "New Bight, Cat I."
+  },
+  {
+    "code": "NEW",
+    "name": "New Orleans Lakefront"
+  },
+  {
+    "code": "NFL",
+    "name": "Fallon/NAS"
+  },
+  {
+    "code": "NGP",
+    "name": "Corpus Christi NAS"
+  },
+  {
+    "code": "NGS",
+    "name": "Nagasaki"
+  },
+  {
+    "code": "NGU",
+    "name": "Norfolk/NAS Cham"
+  },
+  {
+    "code": "NHK",
+    "name": "Patuxent River/NAS"
+  },
+  {
+    "code": "NHT",
+    "name": "Northolt"
+  },
+  {
+    "code": "NHZ",
+    "name": "Brunswick NAS"
+  },
+  {
+    "code": "NIC",
+    "name": "Nicosia"
+  },
+  {
+    "code": "NIP",
+    "name": "Jacksonville NAS"
+  },
+  {
+    "code": "NIT",
+    "name": "Niort/Souche"
+  },
+  {
+    "code": "NKC",
+    "name": "Nouakchott"
+  },
+  {
+    "code": "NKT",
+    "name": "Cherry Point"
+  },
+  {
+    "code": "NKX",
+    "name": "San Diego Miramar"
+  },
+  {
+    "code": "NLU",
+    "name": "Felipe Angeles International"
+  },
+  {
+    "code": "NNA",
+    "name": "Kenitra"
+  },
+  {
+    "code": "NNG",
+    "name": "Nanning Wuxu International Air"
+  },
+  {
+    "code": "NNR",
+    "name": "Connemara"
+  },
+  {
+    "code": "NOC",
+    "name": "Connaught"
+  },
+  {
+    "code": "NOD",
+    "name": "Norden-Norddeich"
+  },
+  {
+    "code": "NOF",
+    "name": "Snøfall"
+  },
+  {
+    "code": "NOR",
+    "name": "Nordfjordur"
+  },
+  {
+    "code": "NPA",
+    "name": "Pensacola NAS"
+  },
+  {
+    "code": "NQI",
+    "name": "Kingsville/NAS"
+  },
+  {
+    "code": "NQJ",
+    "name": "Gjøa"
+  },
+  {
+    "code": "NQX",
+    "name": "Key West/NAS"
+  },
+  {
+    "code": "NQY",
+    "name": "Newquay"
+  },
+  {
+    "code": "NRD",
+    "name": "Norderney"
+  },
+  {
+    "code": "NRK",
+    "name": "Norrkøping"
+  },
+  {
+    "code": "NRL",
+    "name": "North Ronaldsway"
+  },
+  {
+    "code": "NRN",
+    "name": "Dusseldorf Weeze"
+  },
+  {
+    "code": "NRT",
+    "name": "Tokyo Narita"
+  },
+  {
+    "code": "NSY",
+    "name": "Sigonella"
+  },
+  {
+    "code": "NTB",
+    "name": "Notodden"
+  },
+  {
+    "code": "NTE",
+    "name": "Nantes"
+  },
+  {
+    "code": "NUB",
+    "name": "Numbulwar"
+  },
+  {
+    "code": "NUE",
+    "name": "Nurnberg"
+  },
+  {
+    "code": "NUQ",
+    "name": "Mountain View"
+  },
+  {
+    "code": "NUS",
+    "name": "Norsup"
+  },
+  {
+    "code": "NUT",
+    "name": "Nutuve"
+  },
+  {
+    "code": "NVK",
+    "name": "Narvik"
+  },
+  {
+    "code": "NVS",
+    "name": "Nevers/Fourchambault"
+  },
+  {
+    "code": "NWG",
+    "name": "Gudrun"
+  },
+  {
+    "code": "NWI",
+    "name": "Norwich"
+  },
+  {
+    "code": "NXX",
+    "name": "Willow Grove"
+  },
+  {
+    "code": "NYO",
+    "name": "Stockholm Skavsta"
+  },
+  {
+    "code": "NZC",
+    "name": "Jacksonville Cecil Field"
+  },
+  {
+    "code": "NZY",
+    "name": "San Diego North Island"
+  },
+  {
+    "code": "OAK",
+    "name": "Oakland - San Francisco"
+  },
+  {
+    "code": "OBF",
+    "name": "Oberpfaffenhofen"
+  },
+  {
+    "code": "OBL",
+    "name": "Zoersel"
+  },
+  {
+    "code": "OBS",
+    "name": "Aubenas-Vals-Lanas"
+  },
+  {
+    "code": "OBY",
+    "name": "Ittoqqortoormiit/Scoresbysund"
+  },
+  {
+    "code": "OCJ",
+    "name": "Ocho Rios/Boscobel"
+  },
+  {
+    "code": "ODB",
+    "name": "Ciudad Real/Almagro"
+  },
+  {
+    "code": "ODE",
+    "name": "Odense"
+  },
+  {
+    "code": "ODH",
+    "name": "Odiham"
+  },
+  {
+    "code": "ODS",
+    "name": "Odessa"
+  },
+  {
+    "code": "OER",
+    "name": "Ørnskøldsvik"
+  },
+  {
+    "code": "OGD",
+    "name": "Ogden"
+  },
+  {
+    "code": "OHR",
+    "name": "Wyk Auf Fohr"
+  },
+  {
+    "code": "OKA",
+    "name": "Okinawa/Kadena A"
+  },
+  {
+    "code": "OKC",
+    "name": "Oklahoma City"
+  },
+  {
+    "code": "OLA",
+    "name": "Ørland"
+  },
+  {
+    "code": "OLB",
+    "name": "Olbia"
+  },
+  {
+    "code": "OLD",
+    "name": "Old Town"
+  },
+  {
+    "code": "OLM",
+    "name": "Olympia"
+  },
+  {
+    "code": "OLO",
+    "name": "Olomouc"
+  },
+  {
+    "code": "OLU",
+    "name": "Columbus Municipal NE"
+  },
+  {
+    "code": "OMA",
+    "name": "Omaha"
+  },
+  {
+    "code": "OMO",
+    "name": "Mostar"
+  },
+  {
+    "code": "OMR",
+    "name": "Oradea"
+  },
+  {
+    "code": "OMS",
+    "name": "Omsk"
+  },
+  {
+    "code": "ONT",
+    "name": "Ontario"
+  },
+  {
+    "code": "OPA",
+    "name": "Kopasker"
+  },
+  {
+    "code": "OPO",
+    "name": "Porto"
+  },
+  {
+    "code": "ORA",
+    "name": "Al Asud"
+  },
+  {
+    "code": "ORB",
+    "name": "Ørebro"
+  },
+  {
+    "code": "ORD",
+    "name": "Chicago OHare"
+  },
+  {
+    "code": "ORE",
+    "name": "Orleans"
+  },
+  {
+    "code": "ORF",
+    "name": "Norfolk"
+  },
+  {
+    "code": "ORH",
+    "name": "Worcester"
+  },
+  {
+    "code": "ORK",
+    "name": "Cork"
+  },
+  {
+    "code": "ORM",
+    "name": "Northampton/Sywell"
+  },
+  {
+    "code": "ORY",
+    "name": "Paris Orly"
+  },
+  {
+    "code": "OSA",
+    "name": "Osaka"
+  },
+  {
+    "code": "OSD",
+    "name": "Østersund"
+  },
+  {
+    "code": "OSH",
+    "name": "Oshkosh"
+  },
+  {
+    "code": "OSI",
+    "name": "Osijek"
+  },
+  {
+    "code": "OSK",
+    "name": "Oskarshamn"
+  },
+  {
+    "code": "OSL",
+    "name": "Oslo"
+  },
+  {
+    "code": "OSP",
+    "name": "Redzikow"
+  },
+  {
+    "code": "OSR",
+    "name": "Ostrava"
+  },
+  {
+    "code": "OST",
+    "name": "Oostende"
+  },
+  {
+    "code": "OSU",
+    "name": "Columbus Ohio State University"
+  },
+  {
+    "code": "OSY",
+    "name": "Namsos"
+  },
+  {
+    "code": "OSZ",
+    "name": "Koszalin"
+  },
+  {
+    "code": "OTH",
+    "name": "North Bend"
+  },
+  {
+    "code": "OTP",
+    "name": "Bucuresti Otopeni"
+  },
+  {
+    "code": "OUA",
+    "name": "Ouagadougou"
+  },
+  {
+    "code": "OUL",
+    "name": "Oulu"
+  },
+  {
+    "code": "OVB",
+    "name": "Novosibirsk"
+  },
+  {
+    "code": "OVD",
+    "name": "Asturias"
+  },
+  {
+    "code": "OWB",
+    "name": "Owensboro-Davies County"
+  },
+  {
+    "code": "OXF",
+    "name": "Oxford/Kidlington"
+  },
+  {
+    "code": "OZZ",
+    "name": "Ouarzazate"
+  },
+  {
+    "code": "PAD",
+    "name": "Paderborn-Lippstadt"
+  },
+  {
+    "code": "PAE",
+    "name": "Everett Snohomish County"
+  },
+  {
+    "code": "PAH",
+    "name": "Paducah/Barkley"
+  },
+  {
+    "code": "PAM",
+    "name": "Panama City Tyndall (US)"
+  },
+  {
+    "code": "PAR",
+    "name": "Paris"
+  },
+  {
+    "code": "PAS",
+    "name": "Paros"
+  },
+  {
+    "code": "PBG",
+    "name": "Plattsburgh AFB"
+  },
+  {
+    "code": "PCN",
+    "name": "Picton/Koromiko"
+  },
+  {
+    "code": "PDG",
+    "name": "Padang/Tabing"
+  },
+  {
+    "code": "PDK",
+    "name": "Atlanta/De Kalb"
+  },
+  {
+    "code": "PDL",
+    "name": "Ponta Delgada Sao Miguel"
+  },
+  {
+    "code": "PDV",
+    "name": "Plovdiv"
+  },
+  {
+    "code": "PDX",
+    "name": "Portland"
+  },
+  {
+    "code": "PEF",
+    "name": "Peenemunde"
+  },
+  {
+    "code": "PEG",
+    "name": "Perugia"
+  },
+  {
+    "code": "PEK",
+    "name": "Beijing Capital"
+  },
+  {
+    "code": "PEN",
+    "name": "Penang"
+  },
+  {
+    "code": "PFJ",
+    "name": "Patreksfjordur"
+  },
+  {
+    "code": "PFN",
+    "name": "Panama City Bay County"
+  },
+  {
+    "code": "PFO",
+    "name": "Paphos"
+  },
+  {
+    "code": "PGF",
+    "name": "Perpignan"
+  },
+  {
+    "code": "PHF",
+    "name": "Newport News"
+  },
+  {
+    "code": "PHL",
+    "name": "Philadelphia"
+  },
+  {
+    "code": "PHX",
+    "name": "Phoenix"
+  },
+  {
+    "code": "PIA",
+    "name": "Peoria"
+  },
+  {
+    "code": "PIE",
+    "name": "St Petersburg-Clearwater (US)"
+  },
+  {
+    "code": "PIH",
+    "name": "Pocatello"
+  },
+  {
+    "code": "PIK",
+    "name": "Glasgow Prestwick"
+  },
+  {
+    "code": "PIR",
+    "name": "Pierre"
+  },
+  {
+    "code": "PIS",
+    "name": "Poitiers"
+  },
+  {
+    "code": "PIT",
+    "name": "Pittsburgh"
+  },
+  {
+    "code": "PIW",
+    "name": "Pikwitonei"
+  },
+  {
+    "code": "PIX",
+    "name": "Azorene Pico"
+  },
+  {
+    "code": "PJA",
+    "name": "Pajala"
+  },
+  {
+    "code": "PKB",
+    "name": "Parkeresburg/Wood County-GRW"
+  },
+  {
+    "code": "PKH",
+    "name": "Porto Kheli/Alexion"
+  },
+  {
+    "code": "PLB",
+    "name": "Plattsburgh Clinton"
+  },
+  {
+    "code": "PLH",
+    "name": "Plymouth"
+  },
+  {
+    "code": "PLN",
+    "name": "Pellston"
+  },
+  {
+    "code": "PLQ",
+    "name": "Palanga"
+  },
+  {
+    "code": "PLU",
+    "name": "Belo Horizonte Pampulha"
+  },
+  {
+    "code": "PLV",
+    "name": "Poltava"
+  },
+  {
+    "code": "PLZ",
+    "name": "Port Elizabeth"
+  },
+  {
+    "code": "PMD",
+    "name": "Palmdale/Air Forc"
+  },
+  {
+    "code": "PME",
+    "name": "Portsmouth (UK)"
+  },
+  {
+    "code": "PMF",
+    "name": "Parma"
+  },
+  {
+    "code": "PMI",
+    "name": "Palma Mallorca"
+  },
+  {
+    "code": "PMO",
+    "name": "Palermo"
+  },
+  {
+    "code": "PMV",
+    "name": "Isla de Margarita"
+  },
+  {
+    "code": "PNA",
+    "name": "Pamplona"
+  },
+  {
+    "code": "PNH",
+    "name": "Phnom Penh"
+  },
+  {
+    "code": "PNL",
+    "name": "Pantelleria"
+  },
+  {
+    "code": "PNR",
+    "name": "Pointe Noire"
+  },
+  {
+    "code": "PNS",
+    "name": "Pensacola Regional"
+  },
+  {
+    "code": "PNV",
+    "name": "Panevezys"
+  },
+  {
+    "code": "POB",
+    "name": "Fayetteville Pope AFB"
+  },
+  {
+    "code": "POE",
+    "name": "Fort Polk"
+  },
+  {
+    "code": "POP",
+    "name": "Puerto Plata"
+  },
+  {
+    "code": "POR",
+    "name": "Pori"
+  },
+  {
+    "code": "POT",
+    "name": "Port Antonio"
+  },
+  {
+    "code": "POU",
+    "name": "Poughkeepsie"
+  },
+  {
+    "code": "POV",
+    "name": "Presov"
+  },
+  {
+    "code": "POW",
+    "name": "Portoroz"
+  },
+  {
+    "code": "POX",
+    "name": "Paris Cergy Pontoise"
+  },
+  {
+    "code": "POZ",
+    "name": "Poznan"
+  },
+  {
+    "code": "PPW",
+    "name": "Papa Westray"
+  },
+  {
+    "code": "PRB",
+    "name": "Paso Robles"
+  },
+  {
+    "code": "PRC",
+    "name": "Prescott"
+  },
+  {
+    "code": "PRG",
+    "name": "Praha"
+  },
+  {
+    "code": "PRJ",
+    "name": "Capri"
+  },
+  {
+    "code": "PRM",
+    "name": "Portimao"
+  },
+  {
+    "code": "PRN",
+    "name": "Pristina"
+  },
+  {
+    "code": "PRP",
+    "name": "Propriano"
+  },
+  {
+    "code": "PRV",
+    "name": "Prerov"
+  },
+  {
+    "code": "PRX",
+    "name": "Paris Cox Field (US)"
+  },
+  {
+    "code": "PRY",
+    "name": "Pretoria"
+  },
+  {
+    "code": "PSA",
+    "name": "Pisa"
+  },
+  {
+    "code": "PSD",
+    "name": "Port Said"
+  },
+  {
+    "code": "PSH",
+    "name": "St Peter"
+  },
+  {
+    "code": "PSM",
+    "name": "Portsmouth (US)"
+  },
+  {
+    "code": "PSP",
+    "name": "Palm Springs"
+  },
+  {
+    "code": "PSR",
+    "name": "Pescara"
+  },
+  {
+    "code": "PTK",
+    "name": "Pontiac"
+  },
+  {
+    "code": "PUB",
+    "name": "Pueblo"
+  },
+  {
+    "code": "PUF",
+    "name": "Pau-Pyrenees"
+  },
+  {
+    "code": "PUY",
+    "name": "Pula"
+  },
+  {
+    "code": "PVD",
+    "name": "Providence"
+  },
+  {
+    "code": "PVK",
+    "name": "Preveza/Lefkas"
+  },
+  {
+    "code": "PWM",
+    "name": "Portland"
+  },
+  {
+    "code": "PWT",
+    "name": "Bremerton"
+  },
+  {
+    "code": "PXO",
+    "name": "Porto Santo"
+  },
+  {
+    "code": "PXY",
+    "name": "Roma Pratica di Mare Mil."
+  },
+  {
+    "code": "PZE",
+    "name": "Penzance Heliport"
+  },
+  {
+    "code": "PZY",
+    "name": "Piestany"
+  },
+  {
+    "code": "QAL",
+    "name": "Alessandria"
+  },
+  {
+    "code": "QAM",
+    "name": "Amiens"
+  },
+  {
+    "code": "QCM",
+    "name": "Como/Idroscalo"
+  },
+  {
+    "code": "QCY",
+    "name": "Coningsby"
+  },
+  {
+    "code": "QDM",
+    "name": "Bisha"
+  },
+  {
+    "code": "QEF",
+    "name": "Egelsbach"
+  },
+  {
+    "code": "QEK",
+    "name": "Kempen"
+  },
+  {
+    "code": "QEW",
+    "name": "Leicester"
+  },
+  {
+    "code": "QFB",
+    "name": "Freiburg Im Breisgau"
+  },
+  {
+    "code": "QFJ",
+    "name": "Alluitsup Paa/Sydproven"
+  },
+  {
+    "code": "QFK",
+    "name": "Selje"
+  },
+  {
+    "code": "QFN",
+    "name": "Narsaq Kujalleq/Frederiksdal"
+  },
+  {
+    "code": "QFO",
+    "name": "Duxford"
+  },
+  {
+    "code": "QFQ",
+    "name": "Måløy"
+  },
+  {
+    "code": "QFR",
+    "name": "Frosinone"
+  },
+  {
+    "code": "QGO",
+    "name": "Gorizia"
+  },
+  {
+    "code": "QGY",
+    "name": "Gyor"
+  },
+  {
+    "code": "QHA",
+    "name": "Hasselt"
+  },
+  {
+    "code": "QIE",
+    "name": "Istres-Le Tube"
+  },
+  {
+    "code": "QIF",
+    "name": "Isleworth"
+  },
+  {
+    "code": "QIZ",
+    "name": "Bizerte"
+  },
+  {
+    "code": "QJL",
+    "name": "Kjøllefjord"
+  },
+  {
+    "code": "QJS",
+    "name": "Saeby/Ottestrup"
+  },
+  {
+    "code": "QKF",
+    "name": "Krefeld-Egelsberg"
+  },
+  {
+    "code": "QKK",
+    "name": "Karasjok"
+  },
+  {
+    "code": "QKQ",
+    "name": "Anklam"
+  },
+  {
+    "code": "QKX",
+    "name": "Kautokeino"
+  },
+  {
+    "code": "QKZ",
+    "name": "Konstanz"
+  },
+  {
+    "code": "QLA",
+    "name": "Lasham"
+  },
+  {
+    "code": "QLF",
+    "name": "Lahti"
+  },
+  {
+    "code": "QLG",
+    "name": "Landshut"
+  },
+  {
+    "code": "QLR",
+    "name": "Leiria"
+  },
+  {
+    "code": "QLS",
+    "name": "Langenthal"
+  },
+  {
+    "code": "QLT",
+    "name": "Latina"
+  },
+  {
+    "code": "QMZ",
+    "name": "Mainz/Finthen"
+  },
+  {
+    "code": "QNC",
+    "name": "Neuchatel"
+  },
+  {
+    "code": "QNJ",
+    "name": "Annemasse"
+  },
+  {
+    "code": "QNM",
+    "name": "Namur/Suarlee"
+  },
+  {
+    "code": "QNX",
+    "name": "Macon-Charnay"
+  },
+  {
+    "code": "QOB",
+    "name": "Ansbach-Petersdorf"
+  },
+  {
+    "code": "QOK",
+    "name": "Øksfjord"
+  },
+  {
+    "code": "QOS",
+    "name": "Oristano Fenosu"
+  },
+  {
+    "code": "QPA",
+    "name": "Padova"
+  },
+  {
+    "code": "QPB",
+    "name": "Campobasso"
+  },
+  {
+    "code": "QPJ",
+    "name": "Pecs"
+  },
+  {
+    "code": "QPO",
+    "name": "Potenza"
+  },
+  {
+    "code": "QPZ",
+    "name": "Piacenza/S.Damiano"
+  },
+  {
+    "code": "QQQ",
+    "name": "Unknown"
+  },
+  {
+    "code": "QRT",
+    "name": "Rieti"
+  },
+  {
+    "code": "QRV",
+    "name": "Arras/Roclincourt"
+  },
+  {
+    "code": "QRY",
+    "name": "Ikerasassuaq/Prins Chr. Sund"
+  },
+  {
+    "code": "QSA",
+    "name": "Sabadell"
+  },
+  {
+    "code": "QSR",
+    "name": "Salerno/Pontecagnano"
+  },
+  {
+    "code": "QST",
+    "name": "Izmit Topel"
+  },
+  {
+    "code": "QTJ",
+    "name": "Chartres-Champhol"
+  },
+  {
+    "code": "QTP",
+    "name": "Tana"
+  },
+  {
+    "code": "QUL",
+    "name": "Ulm"
+  },
+  {
+    "code": "QUY",
+    "name": "Wyton"
+  },
+  {
+    "code": "QVA",
+    "name": "Varese/Venegono"
+  },
+  {
+    "code": "QVD",
+    "name": "Salo"
+  },
+  {
+    "code": "QVE",
+    "name": "Forssa"
+  },
+  {
+    "code": "QVF",
+    "name": "Karkkila"
+  },
+  {
+    "code": "QVK",
+    "name": "Valkeakoski"
+  },
+  {
+    "code": "QVM",
+    "name": "Hameenlinna"
+  },
+  {
+    "code": "QVO",
+    "name": "Kjøllefjord"
+  },
+  {
+    "code": "QVQ",
+    "name": "Verden-Scharnhorst"
+  },
+  {
+    "code": "QVS",
+    "name": "Tervakoski"
+  },
+  {
+    "code": "QVT",
+    "name": "Riihimaki"
+  },
+  {
+    "code": "QVV",
+    "name": "Heinola"
+  },
+  {
+    "code": "QVW",
+    "name": "Kotka"
+  },
+  {
+    "code": "QVY",
+    "name": "Kouvola"
+  },
+  {
+    "code": "QVZ",
+    "name": "Hamina"
+  },
+  {
+    "code": "QWQ",
+    "name": "Sheffield City"
+  },
+  {
+    "code": "QWR",
+    "name": "Donauworth/Genderkingen"
+  },
+  {
+    "code": "QXB",
+    "name": "Aix-En-Provence"
+  },
+  {
+    "code": "QXH",
+    "name": "Schonhagen"
+  },
+  {
+    "code": "QXI",
+    "name": "Loviisa"
+  },
+  {
+    "code": "QXJ",
+    "name": "Porvoo"
+  },
+  {
+    "code": "QYC",
+    "name": "Drachten"
+  },
+  {
+    "code": "QYD",
+    "name": "Gdynia-Kosakowo"
+  },
+  {
+    "code": "QYI",
+    "name": "Hilversum"
+  },
+  {
+    "code": "QYR",
+    "name": "Troyes"
+  },
+  {
+    "code": "QYV",
+    "name": "Deventer/Teuge"
+  },
+  {
+    "code": "QZB",
+    "name": "Zermatt"
+  },
+  {
+    "code": "QZD",
+    "name": "Szeged"
+  },
+  {
+    "code": "QZJ",
+    "name": "Loimaa"
+  },
+  {
+    "code": "QZK",
+    "name": "Mantsala"
+  },
+  {
+    "code": "QZO",
+    "name": "Arezzo"
+  },
+  {
+    "code": "QZS",
+    "name": "Sørøya"
+  },
+  {
+    "code": "QZU",
+    "name": "Rauma"
+  },
+  {
+    "code": "RAE",
+    "name": "Al-Baha/Al-Aqiq"
+  },
+  {
+    "code": "RAK",
+    "name": "Marrakech"
+  },
+  {
+    "code": "RAL",
+    "name": "Riverside"
+  },
+  {
+    "code": "RAN",
+    "name": "Ravenna"
+  },
+  {
+    "code": "RAP",
+    "name": "Rapid City Regional"
+  },
+  {
+    "code": "RBA",
+    "name": "Rabat"
+  },
+  {
+    "code": "RBL",
+    "name": "Red Bluff"
+  },
+  {
+    "code": "RBM",
+    "name": "Straubing-Wallmuhle"
+  },
+  {
+    "code": "RCA",
+    "name": "Rapid City¨Ellsworth AFB"
+  },
+  {
+    "code": "RCO",
+    "name": "Rochefort"
+  },
+  {
+    "code": "RCS",
+    "name": "Rochester (US)"
+  },
+  {
+    "code": "RDD",
+    "name": "Redding"
+  },
+  {
+    "code": "RDG",
+    "name": "Reading"
+  },
+  {
+    "code": "RDM",
+    "name": "Redmond/Roberts"
+  },
+  {
+    "code": "RDU",
+    "name": "Raleigh/Durham"
+  },
+  {
+    "code": "RDZ",
+    "name": "Rodez/Marcillac"
+  },
+  {
+    "code": "REB",
+    "name": "Rechlin-Larz"
+  },
+  {
+    "code": "REE",
+    "name": "Lubbock Reese AFB"
+  },
+  {
+    "code": "REG",
+    "name": "Reggio Calabria"
+  },
+  {
+    "code": "RET",
+    "name": "Røst"
+  },
+  {
+    "code": "REU",
+    "name": "Reus"
+  },
+  {
+    "code": "RFN",
+    "name": "Raufarhofn"
+  },
+  {
+    "code": "RHE",
+    "name": "Reims-Champagne"
+  },
+  {
+    "code": "RHI",
+    "name": "Rhinelander/Oneida C"
+  },
+  {
+    "code": "RHO",
+    "name": "Rhodos"
+  },
+  {
+    "code": "RIC",
+    "name": "Richmond"
+  },
+  {
+    "code": "RIG",
+    "name": "Rio Grande"
+  },
+  {
+    "code": "RIV",
+    "name": "Riverside/March AF"
+  },
+  {
+    "code": "RIX",
+    "name": "Riga"
+  },
+  {
+    "code": "RJK",
+    "name": "Rijeka"
+  },
+  {
+    "code": "RKE",
+    "name": "København Roskilde"
+  },
+  {
+    "code": "RKV",
+    "name": "Reykjavik"
+  },
+  {
+    "code": "RLG",
+    "name": "Rostock-Laage"
+  },
+  {
+    "code": "RME",
+    "name": "Rome Griffiss (US)"
+  },
+  {
+    "code": "RMF",
+    "name": "Marsa Alam"
+  },
+  {
+    "code": "RMG",
+    "name": "Rome Richard B. Russell (US)"
+  },
+  {
+    "code": "RMI",
+    "name": "Rimini"
+  },
+  {
+    "code": "RMO",
+    "name": "Chisinau"
+  },
+  {
+    "code": "RMS",
+    "name": "Ramstein"
+  },
+  {
+    "code": "RMU",
+    "name": "Murcia"
+  },
+  {
+    "code": "RNB",
+    "name": "Rønneby"
+  },
+  {
+    "code": "RNE",
+    "name": "Roanne-Renaison"
+  },
+  {
+    "code": "RNN",
+    "name": "Bornholm"
+  },
+  {
+    "code": "RNO",
+    "name": "Reno"
+  },
+  {
+    "code": "RNS",
+    "name": "Rennes"
+  },
+  {
+    "code": "RNT",
+    "name": "Renton"
+  },
+  {
+    "code": "ROA",
+    "name": "Roanoke"
+  },
+  {
+    "code": "ROC",
+    "name": "Rochester (UK)"
+  },
+  {
+    "code": "ROM",
+    "name": "Roma"
+  },
+  {
+    "code": "ROU",
+    "name": "Rousse"
+  },
+  {
+    "code": "ROW",
+    "name": "Roswell"
+  },
+  {
+    "code": "RPN",
+    "name": "Rosh Pina"
+  },
+  {
+    "code": "RRJ",
+    "name": "Jacarepagua Rio de Janeiro"
+  },
+  {
+    "code": "RRS",
+    "name": "Røros"
+  },
+  {
+    "code": "RSD",
+    "name": "Rock Sound/Intl, Eleuthera I."
+  },
+  {
+    "code": "RSW",
+    "name": "Fort Myers/Southwes"
+  },
+  {
+    "code": "RTM",
+    "name": "Rotterdam"
+  },
+  {
+    "code": "RUH",
+    "name": "Riyadh"
+  },
+  {
+    "code": "RUT",
+    "name": "Rutland"
+  },
+  {
+    "code": "RVK",
+    "name": "Rørvik"
+  },
+  {
+    "code": "RVN",
+    "name": "Rovaniemi"
+  },
+  {
+    "code": "RWI",
+    "name": "Rocky Mount"
+  },
+  {
+    "code": "RYG",
+    "name": "Rygge"
+  },
+  {
+    "code": "RZE",
+    "name": "Jasionka"
+  },
+  {
+    "code": "SAC",
+    "name": "Sacramento Executive"
+  },
+  {
+    "code": "SAK",
+    "name": "Saudarkrokur"
+  },
+  {
+    "code": "SAN",
+    "name": "San Diego Lindbergh"
+  },
+  {
+    "code": "SAT",
+    "name": "San Antonio"
+  },
+  {
+    "code": "SAV",
+    "name": "Savannah Hilton Head"
+  },
+  {
+    "code": "SAW",
+    "name": "Istanbul/Sabiha"
+  },
+  {
+    "code": "SAY",
+    "name": "Siena"
+  },
+  {
+    "code": "SBA",
+    "name": "Santa Barbara"
+  },
+  {
+    "code": "SBD",
+    "name": "San Bernardino Norton AFB"
+  },
+  {
+    "code": "SBN",
+    "name": "South Bend"
+  },
+  {
+    "code": "SBP",
+    "name": "San Luis Obispo/"
+  },
+  {
+    "code": "SBS",
+    "name": "Steamboat Springs"
+  },
+  {
+    "code": "SBY",
+    "name": "Salisbury-Ocean City"
+  },
+  {
+    "code": "SBZ",
+    "name": "Sibiu"
+  },
+  {
+    "code": "SCH",
+    "name": "Schenectady"
+  },
+  {
+    "code": "SCK",
+    "name": "Stockton"
+  },
+  {
+    "code": "SCN",
+    "name": "Saarbrucken"
+  },
+  {
+    "code": "SCO",
+    "name": "Aktau"
+  },
+  {
+    "code": "SCQ",
+    "name": "Santiago de Compostela"
+  },
+  {
+    "code": "SCR",
+    "name": "Scandinavian Mountains Airport"
+  },
+  {
+    "code": "SCV",
+    "name": "Suceava/Salcea"
+  },
+  {
+    "code": "SDF",
+    "name": "Louisville International"
+  },
+  {
+    "code": "SDL",
+    "name": "Sundsvall"
+  },
+  {
+    "code": "SDM",
+    "name": "San Diego Brown Field"
+  },
+  {
+    "code": "SDN",
+    "name": "Sandane"
+  },
+  {
+    "code": "SDR",
+    "name": "Santander"
+  },
+  {
+    "code": "SDU",
+    "name": "Rio De Janeiro Santos Dumont"
+  },
+  {
+    "code": "SDV",
+    "name": "Tel Aviv Yafo Sde Dov"
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle"
+  },
+  {
+    "code": "SEL",
+    "name": "Seoul"
+  },
+  {
+    "code": "SEN",
+    "name": "London Southend"
+  },
+  {
+    "code": "SEX",
+    "name": "Sembach Hel"
+  },
+  {
+    "code": "SFB",
+    "name": "Orlando Sanford"
+  },
+  {
+    "code": "SFF",
+    "name": "Spokane Felts Field"
+  },
+  {
+    "code": "SFI",
+    "name": "Safi"
+  },
+  {
+    "code": "SFJ",
+    "name": "Kangerlussuaq Søndre Strømfj"
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco"
+  },
+  {
+    "code": "SFQ",
+    "name": "Sanliurfa"
+  },
+  {
+    "code": "SFT",
+    "name": "Skellefteå"
+  },
+  {
+    "code": "SGC",
+    "name": "Surgut"
+  },
+  {
+    "code": "SGD",
+    "name": "Sønderborg"
+  },
+  {
+    "code": "SGE",
+    "name": "Siegen"
+  },
+  {
+    "code": "SGF",
+    "name": "Springfield Branson"
+  },
+  {
+    "code": "SGH",
+    "name": "Springfield"
+  },
+  {
+    "code": "SHA",
+    "name": "Shanghai Hongqiao"
+  },
+  {
+    "code": "SHH",
+    "name": "Shismaref"
+  },
+  {
+    "code": "SHJ",
+    "name": "Sharjah"
+  },
+  {
+    "code": "SHR",
+    "name": "Sheridan"
+  },
+  {
+    "code": "SHV",
+    "name": "Shreveport"
+  },
+  {
+    "code": "SHW",
+    "name": "Sharurah"
+  },
+  {
+    "code": "SIC",
+    "name": "Sinop"
+  },
+  {
+    "code": "SID",
+    "name": "Sal Island"
+  },
+  {
+    "code": "SIE",
+    "name": "Sines"
+  },
+  {
+    "code": "SII",
+    "name": "Sidi Ifni"
+  },
+  {
+    "code": "SIJ",
+    "name": "Siglufjordur"
+  },
+  {
+    "code": "SIN",
+    "name": "Singapore Changi"
+  },
+  {
+    "code": "SIP",
+    "name": "Simferopol"
+  },
+  {
+    "code": "SIR",
+    "name": "Sion"
+  },
+  {
+    "code": "SJC",
+    "name": "San Jose"
+  },
+  {
+    "code": "SJJ",
+    "name": "Sarajevo"
+  },
+  {
+    "code": "SJU",
+    "name": "San Juan"
+  },
+  {
+    "code": "SJY",
+    "name": "Seinajoki"
+  },
+  {
+    "code": "SJZ",
+    "name": "Azorene Sao Jorge"
+  },
+  {
+    "code": "SKA",
+    "name": "Spokane Fairchild"
+  },
+  {
+    "code": "SKD",
+    "name": "Samarkand"
+  },
+  {
+    "code": "SKE",
+    "name": "Skien"
+  },
+  {
+    "code": "SKF",
+    "name": "San Antonio Kelly AFB"
+  },
+  {
+    "code": "SKG",
+    "name": "Thessaloniki"
+  },
+  {
+    "code": "SKN",
+    "name": "Stokmarknes"
+  },
+  {
+    "code": "SKP",
+    "name": "Skopje"
+  },
+  {
+    "code": "SKS",
+    "name": "Skrydstrup"
+  },
+  {
+    "code": "SKU",
+    "name": "Skiros"
+  },
+  {
+    "code": "SKV",
+    "name": "Santa Katarina"
+  },
+  {
+    "code": "SLC",
+    "name": "Salt Lake City"
+  },
+  {
+    "code": "SLD",
+    "name": "Sliac"
+  },
+  {
+    "code": "SLF",
+    "name": "Sharurah"
+  },
+  {
+    "code": "SLK",
+    "name": "Saranac Lake"
+  },
+  {
+    "code": "SLM",
+    "name": "Salamanca"
+  },
+  {
+    "code": "SLN",
+    "name": "Salina"
+  },
+  {
+    "code": "SMA",
+    "name": "Azorene Santa Maria"
+  },
+  {
+    "code": "SMF",
+    "name": "Sacramento International"
+  },
+  {
+    "code": "SMG",
+    "name": "Skomakergata"
+  },
+  {
+    "code": "SMI",
+    "name": "Samos"
+  },
+  {
+    "code": "SML",
+    "name": "Stella Maris"
+  },
+  {
+    "code": "SMV",
+    "name": "St Moritz"
+  },
+  {
+    "code": "SMW",
+    "name": "Smara"
+  },
+  {
+    "code": "SMX",
+    "name": "Santa Maria"
+  },
+  {
+    "code": "SNA",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "SNG",
+    "name": "Sør-Norge"
+  },
+  {
+    "code": "SNN",
+    "name": "Shannon"
+  },
+  {
+    "code": "SNS",
+    "name": "Salinas"
+  },
+  {
+    "code": "SOB",
+    "name": "Saarmelleek"
+  },
+  {
+    "code": "SOF",
+    "name": "Sofia"
+  },
+  {
+    "code": "SOG",
+    "name": "Sogndal"
+  },
+  {
+    "code": "SOJ",
+    "name": "Sørkjosen"
+  },
+  {
+    "code": "SOK",
+    "name": "Sodankyla"
+  },
+  {
+    "code": "SOO",
+    "name": "Søderhamn"
+  },
+  {
+    "code": "SOU",
+    "name": "Southampton"
+  },
+  {
+    "code": "SOY",
+    "name": "Stronsay"
+  },
+  {
+    "code": "SOZ",
+    "name": "Solenzara"
+  },
+  {
+    "code": "SPA",
+    "name": "Spartanburg"
+  },
+  {
+    "code": "SPC",
+    "name": "La Palma"
+  },
+  {
+    "code": "SPI",
+    "name": "Springfield Capital"
+  },
+  {
+    "code": "SPJ",
+    "name": "Sparti"
+  },
+  {
+    "code": "SPK",
+    "name": "Sapporo"
+  },
+  {
+    "code": "SPL",
+    "name": "Amsterdam"
+  },
+  {
+    "code": "SPM",
+    "name": "Spangdahlem"
+  },
+  {
+    "code": "SPS",
+    "name": "Wichita Falls"
+  },
+  {
+    "code": "SPU",
+    "name": "Split"
+  },
+  {
+    "code": "SPX",
+    "name": "Sphinx"
+  },
+  {
+    "code": "SQQ",
+    "name": "Siauliai"
+  },
+  {
+    "code": "SQW",
+    "name": "Skive"
+  },
+  {
+    "code": "SRP",
+    "name": "Stord"
+  },
+  {
+    "code": "SRQ",
+    "name": "Sarasota/Bradenton"
+  },
+  {
+    "code": "SSC",
+    "name": "Sumter/Shaw AFB"
+  },
+  {
+    "code": "SSH",
+    "name": "Sharm el Sheik"
+  },
+  {
+    "code": "SSI",
+    "name": "Brunswick Mckinnon"
+  },
+  {
+    "code": "SSJ",
+    "name": "Sandnessjøen"
+  },
+  {
+    "code": "SSX",
+    "name": "Samsun"
+  },
+  {
+    "code": "STA",
+    "name": "Stauning"
+  },
+  {
+    "code": "STJ",
+    "name": "St Joseph"
+  },
+  {
+    "code": "STN",
+    "name": "London Stansted"
+  },
+  {
+    "code": "STO",
+    "name": "Stockholm/Swedish Air Force"
+  },
+  {
+    "code": "STP",
+    "name": "St Paul/Downtown"
+  },
+  {
+    "code": "STR",
+    "name": "Stuttgart"
+  },
+  {
+    "code": "SUB",
+    "name": "Surabaya"
+  },
+  {
+    "code": "SUF",
+    "name": "Lamezia/Terme"
+  },
+  {
+    "code": "SUJ",
+    "name": "Satu Mare"
+  },
+  {
+    "code": "SUU",
+    "name": "Fairfield/Travis A"
+  },
+  {
+    "code": "SUX",
+    "name": "Sioux City"
+  },
+  {
+    "code": "SVG",
+    "name": "Stavanger"
+  },
+  {
+    "code": "SVJ",
+    "name": "Svolvær"
+  },
+  {
+    "code": "SVL",
+    "name": "Savonlinna"
+  },
+  {
+    "code": "SVN",
+    "name": "Savannah Hunter AAF"
+  },
+  {
+    "code": "SVO",
+    "name": "Moskva Sheremetyevo"
+  },
+  {
+    "code": "SVQ",
+    "name": "Sevilla"
+  },
+  {
+    "code": "SVX",
+    "name": "Yekaterinburg"
+  },
+  {
+    "code": "SWF",
+    "name": "New York/Newburgh"
+  },
+  {
+    "code": "SWO",
+    "name": "Stillwater"
+  },
+  {
+    "code": "SWS",
+    "name": "Swansea"
+  },
+  {
+    "code": "SXB",
+    "name": "Strasbourg Entzheim"
+  },
+  {
+    "code": "SXF",
+    "name": "Berlin Schonefeld"
+  },
+  {
+    "code": "SXL",
+    "name": "Sligo"
+  },
+  {
+    "code": "SXZ",
+    "name": "Siirt"
+  },
+  {
+    "code": "SYG",
+    "name": "Nordpolen"
+  },
+  {
+    "code": "SYK",
+    "name": "Stykkisholmur"
+  },
+  {
+    "code": "SYR",
+    "name": "Syracuse"
+  },
+  {
+    "code": "SYY",
+    "name": "Stornoway"
+  },
+  {
+    "code": "SZB",
+    "name": "Kuala Lumpur"
+  },
+  {
+    "code": "SZF",
+    "name": "Samsun"
+  },
+  {
+    "code": "SZG",
+    "name": "Salzburg"
+  },
+  {
+    "code": "SZY",
+    "name": "Szymany"
+  },
+  {
+    "code": "SZZ",
+    "name": "Szczecin"
+  },
+  {
+    "code": "TAP",
+    "name": "Tapachula"
+  },
+  {
+    "code": "TAS",
+    "name": "Tasjkent"
+  },
+  {
+    "code": "TAT",
+    "name": "Poprad"
+  },
+  {
+    "code": "TAY",
+    "name": "Tartu"
+  },
+  {
+    "code": "TBJ",
+    "name": "Tabarka"
+  },
+  {
+    "code": "TBN",
+    "name": "Fort Leonard Wood/Forney A"
+  },
+  {
+    "code": "TBS",
+    "name": "Tbilisi"
+  },
+  {
+    "code": "TCB",
+    "name": "Treasure Cay, Abaco Islands"
+  },
+  {
+    "code": "TCC",
+    "name": "Tucumcari"
+  },
+  {
+    "code": "TCE",
+    "name": "Tulcea"
+  },
+  {
+    "code": "TCL",
+    "name": "Tuscaloosa"
+  },
+  {
+    "code": "TCM",
+    "name": "Tacoma Mc Chord AFB"
+  },
+  {
+    "code": "TCP",
+    "name": "Taba"
+  },
+  {
+    "code": "TCS",
+    "name": "Truth Or Consequences"
+  },
+  {
+    "code": "TEB",
+    "name": "Teterboro"
+  },
+  {
+    "code": "TED",
+    "name": "Thisted"
+  },
+  {
+    "code": "TEQ",
+    "name": "Tekirdag, Corlu"
+  },
+  {
+    "code": "TEY",
+    "name": "Thingeyri"
+  },
+  {
+    "code": "TFN",
+    "name": "Tenerife Norte"
+  },
+  {
+    "code": "TFS",
+    "name": "Tenerife"
+  },
+  {
+    "code": "TGA",
+    "name": "Tengah"
+  },
+  {
+    "code": "TGD",
+    "name": "Podgorica"
+  },
+  {
+    "code": "THF",
+    "name": "Berlin Tempelhof"
+  },
+  {
+    "code": "THN",
+    "name": "Trollhattan"
+  },
+  {
+    "code": "THO",
+    "name": "Thorshofn"
+  },
+  {
+    "code": "TIA",
+    "name": "Tirana"
+  },
+  {
+    "code": "TIF",
+    "name": "Tabuk"
+  },
+  {
+    "code": "TIP",
+    "name": "Tripoli"
+  },
+  {
+    "code": "TIV",
+    "name": "Tivat"
+  },
+  {
+    "code": "TIW",
+    "name": "Tacoma"
+  },
+  {
+    "code": "TIX",
+    "name": "Titusville"
+  },
+  {
+    "code": "TJK",
+    "name": "Tokat"
+  },
+  {
+    "code": "TKU",
+    "name": "Turku"
+  },
+  {
+    "code": "TLH",
+    "name": "Tallahassee"
+  },
+  {
+    "code": "TLL",
+    "name": "Tallinn"
+  },
+  {
+    "code": "TLN",
+    "name": "Toulon"
+  },
+  {
+    "code": "TLS",
+    "name": "Toulouse"
+  },
+  {
+    "code": "TLV",
+    "name": "Tel Aviv Ben Gurion"
+  },
+  {
+    "code": "TMJ",
+    "name": "Termez"
+  },
+  {
+    "code": "TMP",
+    "name": "Tampere"
+  },
+  {
+    "code": "TNF",
+    "name": "Toussus-Le-Noble"
+  },
+  {
+    "code": "TNG",
+    "name": "Tanger"
+  },
+  {
+    "code": "TOE",
+    "name": "Tozeur"
+  },
+  {
+    "code": "TOJ",
+    "name": "Madrid Torrejon"
+  },
+  {
+    "code": "TOL",
+    "name": "Toledo"
+  },
+  {
+    "code": "TOS",
+    "name": "Tromsø"
+  },
+  {
+    "code": "TOU",
+    "name": "Touho"
+  },
+  {
+    "code": "TPA",
+    "name": "Tampa"
+  },
+  {
+    "code": "TPL",
+    "name": "Temple"
+  },
+  {
+    "code": "TPS",
+    "name": "Trapani"
+  },
+  {
+    "code": "TRD",
+    "name": "Trondheim"
+  },
+  {
+    "code": "TRE",
+    "name": "Tiree"
+  },
+  {
+    "code": "TRF",
+    "name": "Sandefjord"
+  },
+  {
+    "code": "TRN",
+    "name": "Torino"
+  },
+  {
+    "code": "TRS",
+    "name": "Trieste"
+  },
+  {
+    "code": "TSE",
+    "name": "Akmola"
+  },
+  {
+    "code": "TSF",
+    "name": "Venezia Treviso"
+  },
+  {
+    "code": "TSR",
+    "name": "Timisoara"
+  },
+  {
+    "code": "TTB",
+    "name": "Tortoli"
+  },
+  {
+    "code": "TTN",
+    "name": "Trenton (US)"
+  },
+  {
+    "code": "TUF",
+    "name": "Tours"
+  },
+  {
+    "code": "TUI",
+    "name": "Taif"
+  },
+  {
+    "code": "TUL",
+    "name": "Tulsa"
+  },
+  {
+    "code": "TUN",
+    "name": "Tunis"
+  },
+  {
+    "code": "TUP",
+    "name": "Tupelo"
+  },
+  {
+    "code": "TUS",
+    "name": "Tucson"
+  },
+  {
+    "code": "TUU",
+    "name": "Sulayel"
+  },
+  {
+    "code": "TVL",
+    "name": "South Lake Tahoe"
+  },
+  {
+    "code": "TWF",
+    "name": "Twin Falls"
+  },
+  {
+    "code": "TXK",
+    "name": "Texarkana"
+  },
+  {
+    "code": "TXL",
+    "name": "Berlin Tegel"
+  },
+  {
+    "code": "TYF",
+    "name": "Torsby"
+  },
+  {
+    "code": "TYM",
+    "name": "Staniel Cay"
+  },
+  {
+    "code": "TYR",
+    "name": "Tyler"
+  },
+  {
+    "code": "TZX",
+    "name": "Trabzon"
+  },
+  {
+    "code": "UAB",
+    "name": "Adana"
+  },
+  {
+    "code": "UBN",
+    "name": "Chinggis Khaan International A"
+  },
+  {
+    "code": "UBP",
+    "name": "Ubon Ratchathani"
+  },
+  {
+    "code": "UCA",
+    "name": "Utica"
+  },
+  {
+    "code": "UDE",
+    "name": "Uden"
+  },
+  {
+    "code": "UIN",
+    "name": "Quincy"
+  },
+  {
+    "code": "UIP",
+    "name": "Quimper"
+  },
+  {
+    "code": "UKI",
+    "name": "Ukiah"
+  },
+  {
+    "code": "ULY",
+    "name": "Uljanovsk"
+  },
+  {
+    "code": "UMD",
+    "name": "Uummannaq"
+  },
+  {
+    "code": "UME",
+    "name": "Umeå"
+  },
+  {
+    "code": "UNN",
+    "name": "Ranong"
+  },
+  {
+    "code": "URD",
+    "name": "Burg Feuerstein"
+  },
+  {
+    "code": "URE",
+    "name": "Kuressaare"
+  },
+  {
+    "code": "URO",
+    "name": "Rouen"
+  },
+  {
+    "code": "UST",
+    "name": "St Augustine"
+  },
+  {
+    "code": "UTC",
+    "name": "Utrecht"
+  },
+  {
+    "code": "UTW",
+    "name": "Queenstown"
+  },
+  {
+    "code": "UVL",
+    "name": "New Valley/Karga"
+  },
+  {
+    "code": "UZC",
+    "name": "Uzice"
+  },
+  {
+    "code": "UZH",
+    "name": "Turaif"
+  },
+  {
+    "code": "VAA",
+    "name": "Vaasa"
+  },
+  {
+    "code": "VAC",
+    "name": "Varrelbusch"
+  },
+  {
+    "code": "VAD",
+    "name": "Valdosta/Moody AF"
+  },
+  {
+    "code": "VAF",
+    "name": "Valence"
+  },
+  {
+    "code": "VAJ",
+    "name": "Varna"
+  },
+  {
+    "code": "VAN",
+    "name": "Van"
+  },
+  {
+    "code": "VAR",
+    "name": "Varna"
+  },
+  {
+    "code": "VAS",
+    "name": "Sivas"
+  },
+  {
+    "code": "VAW",
+    "name": "Vardø"
+  },
+  {
+    "code": "VBG",
+    "name": "Lompoc Vandenberg AFB"
+  },
+  {
+    "code": "VBS",
+    "name": "Brescia"
+  },
+  {
+    "code": "VBY",
+    "name": "Visby"
+  },
+  {
+    "code": "VCE",
+    "name": "Venezia"
+  },
+  {
+    "code": "VCT",
+    "name": "Victoria"
+  },
+  {
+    "code": "VDA",
+    "name": "Ovda"
+  },
+  {
+    "code": "VDB",
+    "name": "Fagernes"
+  },
+  {
+    "code": "VDP",
+    "name": "Kolding"
+  },
+  {
+    "code": "VDS",
+    "name": "Vadsø"
+  },
+  {
+    "code": "VEY",
+    "name": "Vestmannaeyjar"
+  },
+  {
+    "code": "VGO",
+    "name": "Vigo"
+  },
+  {
+    "code": "VHM",
+    "name": "Vilhelmina"
+  },
+  {
+    "code": "VHY",
+    "name": "Vichy-Charmeil"
+  },
+  {
+    "code": "VIC",
+    "name": "Vibo Valentia"
+  },
+  {
+    "code": "VIE",
+    "name": "Wien"
+  },
+  {
+    "code": "VIL",
+    "name": "Dakhla"
+  },
+  {
+    "code": "VIP",
+    "name": "Payerne"
+  },
+  {
+    "code": "VIT",
+    "name": "Vitoria"
+  },
+  {
+    "code": "VIY",
+    "name": "Villa Coblay"
+  },
+  {
+    "code": "VKO",
+    "name": "Moskva Vnukovo"
+  },
+  {
+    "code": "VLC",
+    "name": "Valencia"
+  },
+  {
+    "code": "VLD",
+    "name": "Valdosta"
+  },
+  {
+    "code": "VLL",
+    "name": "Valladolid"
+  },
+  {
+    "code": "VLO",
+    "name": "Vlora"
+  },
+  {
+    "code": "VNE",
+    "name": "Vannes"
+  },
+  {
+    "code": "VNO",
+    "name": "Vilnius"
+  },
+  {
+    "code": "VOG",
+    "name": "Volgograd"
+  },
+  {
+    "code": "VOK",
+    "name": "Camp Douglas Volk Field"
+  },
+  {
+    "code": "VOL",
+    "name": "Volos/Nea Anch"
+  },
+  {
+    "code": "VPN",
+    "name": "Vopnafjordur"
+  },
+  {
+    "code": "VPS",
+    "name": "Valparaiso Eglin AFB"
+  },
+  {
+    "code": "VPZ",
+    "name": "Valparaiso Porter County"
+  },
+  {
+    "code": "VRA",
+    "name": "Varadero"
+  },
+  {
+    "code": "VRB",
+    "name": "Vero Beach"
+  },
+  {
+    "code": "VRK",
+    "name": "Varkaus"
+  },
+  {
+    "code": "VRL",
+    "name": "Vila Real"
+  },
+  {
+    "code": "VRN",
+    "name": "Verona"
+  },
+  {
+    "code": "VRY",
+    "name": "Værøy"
+  },
+  {
+    "code": "VSE",
+    "name": "Viseu"
+  },
+  {
+    "code": "VST",
+    "name": "Vesterås"
+  },
+  {
+    "code": "VTL",
+    "name": "Vittel-Champ De Courses"
+  },
+  {
+    "code": "VTM",
+    "name": "NEVATIM AFB"
+  },
+  {
+    "code": "VVK",
+    "name": "Vestervik"
+  },
+  {
+    "code": "VVO",
+    "name": "Vladivostok"
+  },
+  {
+    "code": "VXO",
+    "name": "Vaxjo"
+  },
+  {
+    "code": "WAT",
+    "name": "Waterford"
+  },
+  {
+    "code": "WAW",
+    "name": "Warszawa"
+  },
+  {
+    "code": "WBG",
+    "name": "Schleswig"
+  },
+  {
+    "code": "WFK",
+    "name": "Frenchville"
+  },
+  {
+    "code": "WHS",
+    "name": "Whalsay"
+  },
+  {
+    "code": "WIC",
+    "name": "Wick"
+  },
+  {
+    "code": "WIE",
+    "name": "Wiesbaden"
+  },
+  {
+    "code": "WKR",
+    "name": "Walker Cay, Abaco I."
+  },
+  {
+    "code": "WLG",
+    "name": "Wellington"
+  },
+  {
+    "code": "WMI",
+    "name": "Warszawa Modlin"
+  },
+  {
+    "code": "WOE",
+    "name": "Woendrecht"
+  },
+  {
+    "code": "WRL",
+    "name": "Worland"
+  },
+  {
+    "code": "WRO",
+    "name": "Wroclaw"
+  },
+  {
+    "code": "WRY",
+    "name": "Westray"
+  },
+  {
+    "code": "WTD",
+    "name": "West End, Grand Bahama I."
+  },
+  {
+    "code": "WTN",
+    "name": "Waddington"
+  },
+  {
+    "code": "WVB",
+    "name": "Walvis Bay Namibia"
+  },
+  {
+    "code": "WVN",
+    "name": "Wilhelmshaven-Mariensiel"
+  },
+  {
+    "code": "WWD",
+    "name": "Wildwood"
+  },
+  {
+    "code": "WYS",
+    "name": "West Yellowstone"
+  },
+  {
+    "code": "XAB",
+    "name": "Abbeville"
+  },
+  {
+    "code": "XAC",
+    "name": "Arcachon"
+  },
+  {
+    "code": "XAK",
+    "name": "Herning"
+  },
+  {
+    "code": "XAM",
+    "name": "Amboise/Dierre"
+  },
+  {
+    "code": "XAN",
+    "name": "Alencon-Valframbert"
+  },
+  {
+    "code": "XAS",
+    "name": "Ales-Deaux"
+  },
+  {
+    "code": "XAV",
+    "name": "Albertville"
+  },
+  {
+    "code": "XBF",
+    "name": "Bellegarde"
+  },
+  {
+    "code": "XBQ",
+    "name": "Blois-Le Breuil"
+  },
+  {
+    "code": "XBV",
+    "name": "Beaune"
+  },
+  {
+    "code": "XBX",
+    "name": "Bernay-Saint-Martin"
+  },
+  {
+    "code": "XCP",
+    "name": "Compiegne/Margny"
+  },
+  {
+    "code": "XCW",
+    "name": "Chaumont Semoutiers"
+  },
+  {
+    "code": "XCX",
+    "name": "Chatellerault/Targe"
+  },
+  {
+    "code": "XCY",
+    "name": "Chateau-Thierry-Belleau"
+  },
+  {
+    "code": "XCZ",
+    "name": "Charleville-Mezieres"
+  },
+  {
+    "code": "XDA",
+    "name": "Dax/Seyresse"
+  },
+  {
+    "code": "XDK",
+    "name": "Dunkerque-Ghyvelde"
+  },
+  {
+    "code": "XED",
+    "name": "Epernay-Plivot"
+  },
+  {
+    "code": "XFE",
+    "name": "Parent"
+  },
+  {
+    "code": "XFV",
+    "name": "Brantford"
+  },
+  {
+    "code": "XGT",
+    "name": "Gueret/Saint-Laurent"
+  },
+  {
+    "code": "XHE",
+    "name": "Hyeres-Le Palyvestre"
+  },
+  {
+    "code": "XKS",
+    "name": "Kasabonika"
+  },
+  {
+    "code": "XLE",
+    "name": "Lens-Benifontaine"
+  },
+  {
+    "code": "XLG",
+    "name": "Lognes-Emerainville"
+  },
+  {
+    "code": "XLL",
+    "name": "Lons Le Saunier/Courlaoux"
+  },
+  {
+    "code": "XLN",
+    "name": "Laon/Chambry"
+  },
+  {
+    "code": "XLR",
+    "name": "Libourne/Artiques De Lussac"
+  },
+  {
+    "code": "XLW",
+    "name": "Lemwerder"
+  },
+  {
+    "code": "XME",
+    "name": "Maubeuge/Elesmes"
+  },
+  {
+    "code": "XMF",
+    "name": "Montbeliard-Courcelles"
+  },
+  {
+    "code": "XMK",
+    "name": "Montelimar-Ancone"
+  },
+  {
+    "code": "XMS",
+    "name": "Marmande/Virazeil"
+  },
+  {
+    "code": "XMW",
+    "name": "Montauban"
+  },
+  {
+    "code": "XNA",
+    "name": "Narbonne"
+  },
+  {
+    "code": "XNM",
+    "name": "Nottingham"
+  },
+  {
+    "code": "XOG",
+    "name": "Orange-Caritat"
+  },
+  {
+    "code": "XQH",
+    "name": "Derby"
+  },
+  {
+    "code": "XRN",
+    "name": "Redon/Bains-Sur-Oust"
+  },
+  {
+    "code": "XRO",
+    "name": "La Roche-Sur-Yon-Les Ajoncs"
+  },
+  {
+    "code": "XRY",
+    "name": "Jerez"
+  },
+  {
+    "code": "XSL",
+    "name": "Sarlat/Domme"
+  },
+  {
+    "code": "XSN",
+    "name": "Saint-Yan"
+  },
+  {
+    "code": "XSP",
+    "name": "Singapore Seletar"
+  },
+  {
+    "code": "XSS",
+    "name": "Soissons-Courmelles"
+  },
+  {
+    "code": "XST",
+    "name": "Saintes-Thenac"
+  },
+  {
+    "code": "XSV",
+    "name": "Saverne-Steinbourg"
+  },
+  {
+    "code": "XSW",
+    "name": "Sedan-Douzy"
+  },
+  {
+    "code": "XTH",
+    "name": "Thionville/Yutz"
+  },
+  {
+    "code": "XVI",
+    "name": "Vienne/Reventin"
+  },
+  {
+    "code": "XVN",
+    "name": "Verdun/Rozelier"
+  },
+  {
+    "code": "XVO",
+    "name": "Vesoul-Frotey"
+  },
+  {
+    "code": "XVS",
+    "name": "Valenciennes/Denain"
+  },
+  {
+    "code": "XVZ",
+    "name": "Vierzon-Mereau"
+  },
+  {
+    "code": "XXP",
+    "name": "Potsdam"
+  },
+  {
+    "code": "XXX",
+    "name": "Unknown"
+  },
+  {
+    "code": "XYT",
+    "name": "Toulouse-Montaudran"
+  },
+  {
+    "code": "YAW",
+    "name": "Halifax Shearwater"
+  },
+  {
+    "code": "YAY",
+    "name": "St Anthony"
+  },
+  {
+    "code": "YAZ",
+    "name": "Tofino"
+  },
+  {
+    "code": "YBE",
+    "name": "Uranium City"
+  },
+  {
+    "code": "YBR",
+    "name": "Brandon"
+  },
+  {
+    "code": "YBY",
+    "name": "Bonnyville"
+  },
+  {
+    "code": "YCD",
+    "name": "Nanaimo"
+  },
+  {
+    "code": "YCG",
+    "name": "Castlegar"
+  },
+  {
+    "code": "YCL",
+    "name": "Charlo"
+  },
+  {
+    "code": "YCM",
+    "name": "St Catharines"
+  },
+  {
+    "code": "YCN",
+    "name": "Cochrane"
+  },
+  {
+    "code": "YCT",
+    "name": "Coronation"
+  },
+  {
+    "code": "YCW",
+    "name": "Chilliwack"
+  },
+  {
+    "code": "YCX",
+    "name": "Gagetown.B."
+  },
+  {
+    "code": "YDB",
+    "name": "Burwash"
+  },
+  {
+    "code": "YDG",
+    "name": "Digby"
+  },
+  {
+    "code": "YDN",
+    "name": "Dauphin"
+  },
+  {
+    "code": "YDP",
+    "name": "Nain"
+  },
+  {
+    "code": "YEG",
+    "name": "Edmonton"
+  },
+  {
+    "code": "YEO",
+    "name": "Yeovilton"
+  },
+  {
+    "code": "YET",
+    "name": "Edson"
+  },
+  {
+    "code": "YEU",
+    "name": "Eureka"
+  },
+  {
+    "code": "YFC",
+    "name": "Fredericton"
+  },
+  {
+    "code": "YFE",
+    "name": "Forestville"
+  },
+  {
+    "code": "YGK",
+    "name": "Kingston CA"
+  },
+  {
+    "code": "YGP",
+    "name": "Gaspeue."
+  },
+  {
+    "code": "YGQ",
+    "name": "Geraldtonn"
+  },
+  {
+    "code": "YGX",
+    "name": "Gillam"
+  },
+  {
+    "code": "YGZ",
+    "name": "Grise Fiord.W.T."
+  },
+  {
+    "code": "YHE",
+    "name": "Hope"
+  },
+  {
+    "code": "YHI",
+    "name": "Holman.W.T."
+  },
+  {
+    "code": "YHM",
+    "name": "Hamiltonn"
+  },
+  {
+    "code": "YHO",
+    "name": "Hopedale"
+  },
+  {
+    "code": "YHZ",
+    "name": "Halifax"
+  },
+  {
+    "code": "YIP",
+    "name": "Detroit Willow Run"
+  },
+  {
+    "code": "YJT",
+    "name": "Stephenville"
+  },
+  {
+    "code": "YKG",
+    "name": "Kangirsuk"
+  },
+  {
+    "code": "YKL",
+    "name": "Schefferville"
+  },
+  {
+    "code": "YKM",
+    "name": "Yakima"
+  },
+  {
+    "code": "YKN",
+    "name": "Yankton"
+  },
+  {
+    "code": "YKQ",
+    "name": "Waskaganish"
+  },
+  {
+    "code": "YKZ",
+    "name": "Toronto Buttonville"
+  },
+  {
+    "code": "YLC",
+    "name": "Kimmirut"
+  },
+  {
+    "code": "YLD",
+    "name": "Chapleau"
+  },
+  {
+    "code": "YLI",
+    "name": "Ylivieska"
+  },
+  {
+    "code": "YLL",
+    "name": "Lloydminster"
+  },
+  {
+    "code": "YLO",
+    "name": "Shilo"
+  },
+  {
+    "code": "YLW",
+    "name": "Kelowna"
+  },
+  {
+    "code": "YMA",
+    "name": "Mayo"
+  },
+  {
+    "code": "YMN",
+    "name": "Makkovik"
+  },
+  {
+    "code": "YNA",
+    "name": "Natashquan"
+  },
+  {
+    "code": "YNE",
+    "name": "Norway House"
+  },
+  {
+    "code": "YNG",
+    "name": "Youngstown"
+  },
+  {
+    "code": "YNM",
+    "name": "Matagami"
+  },
+  {
+    "code": "YNS",
+    "name": "Nemiscau"
+  },
+  {
+    "code": "YOA",
+    "name": "Koala Nwt"
+  },
+  {
+    "code": "YOC",
+    "name": "Old Crow"
+  },
+  {
+    "code": "YOH",
+    "name": "Oxford House"
+  },
+  {
+    "code": "YOO",
+    "name": "Oshawa"
+  },
+  {
+    "code": "YOW",
+    "name": "Ottawa/Macd.-Cartier"
+  },
+  {
+    "code": "YOY",
+    "name": "Valcartier"
+  },
+  {
+    "code": "YPA",
+    "name": "Prince Albert"
+  },
+  {
+    "code": "YPC",
+    "name": "Paulatuk.W.T."
+  },
+  {
+    "code": "YPM",
+    "name": "Pikangikum"
+  },
+  {
+    "code": "YPO",
+    "name": "Peawanuck"
+  },
+  {
+    "code": "YPQ",
+    "name": "Peterborough"
+  },
+  {
+    "code": "YQA",
+    "name": "Muskoka"
+  },
+  {
+    "code": "YQB",
+    "name": "Quebec/Jean Lesage"
+  },
+  {
+    "code": "YQC",
+    "name": "Quaqtaq"
+  },
+  {
+    "code": "YQG",
+    "name": "Windsor"
+  },
+  {
+    "code": "YQI",
+    "name": "Yarmouth"
+  },
+  {
+    "code": "YQK",
+    "name": "Kenora"
+  },
+  {
+    "code": "YQL",
+    "name": "Lethbridge"
+  },
+  {
+    "code": "YQM",
+    "name": "Moncton"
+  },
+  {
+    "code": "YQN",
+    "name": "Nakina"
+  },
+  {
+    "code": "YQQ",
+    "name": "Comox"
+  },
+  {
+    "code": "YQS",
+    "name": "St Thomas"
+  },
+  {
+    "code": "YQT",
+    "name": "Thunder Bay"
+  },
+  {
+    "code": "YQX",
+    "name": "Gander"
+  },
+  {
+    "code": "YQY",
+    "name": "Sydney"
+  },
+  {
+    "code": "YQZ",
+    "name": "Quesnel"
+  },
+  {
+    "code": "YRF",
+    "name": "Cartwright"
+  },
+  {
+    "code": "YRJ",
+    "name": "Roberval"
+  },
+  {
+    "code": "YRO",
+    "name": "Ottawa Rockcliffe"
+  },
+  {
+    "code": "YRV",
+    "name": "Revelstoke"
+  },
+  {
+    "code": "YSB",
+    "name": "Sudbury"
+  },
+  {
+    "code": "YSC",
+    "name": "Sherbrooke"
+  },
+  {
+    "code": "YSD",
+    "name": "Suffield"
+  },
+  {
+    "code": "YSE",
+    "name": "Squamish"
+  },
+  {
+    "code": "YSK",
+    "name": "Sanikiluaq"
+  },
+  {
+    "code": "YSR",
+    "name": "Nanisivik.W.T."
+  },
+  {
+    "code": "YSU",
+    "name": "Summerside"
+  },
+  {
+    "code": "YTA",
+    "name": "Pembroke"
+  },
+  {
+    "code": "YTR",
+    "name": "Trenton (CA)"
+  },
+  {
+    "code": "YTS",
+    "name": "Timmins"
+  },
+  {
+    "code": "YUM",
+    "name": "Yuma"
+  },
+  {
+    "code": "YVB",
+    "name": "Bonaventure"
+  },
+  {
+    "code": "YVE",
+    "name": "Vernon"
+  },
+  {
+    "code": "YVG",
+    "name": "Vermillion"
+  },
+  {
+    "code": "YVQ",
+    "name": "Norman Wells"
+  },
+  {
+    "code": "YVR",
+    "name": "Vancouver"
+  },
+  {
+    "code": "YVV",
+    "name": "Wiarton"
+  },
+  {
+    "code": "YWA",
+    "name": "Petawawa"
+  },
+  {
+    "code": "YWG",
+    "name": "Winnipeg"
+  },
+  {
+    "code": "YWJ",
+    "name": "Deline"
+  },
+  {
+    "code": "YWK",
+    "name": "Wabush"
+  },
+  {
+    "code": "YWO",
+    "name": "Lupin"
+  },
+  {
+    "code": "YWP",
+    "name": "Webquie"
+  },
+  {
+    "code": "YWY",
+    "name": "Wrigley"
+  },
+  {
+    "code": "YXC",
+    "name": "Cranbrook"
+  },
+  {
+    "code": "YXD",
+    "name": "Edmonton City Center Airport"
+  },
+  {
+    "code": "YXK",
+    "name": "Rimouski"
+  },
+  {
+    "code": "YXP",
+    "name": "Pangnirtung"
+  },
+  {
+    "code": "YXU",
+    "name": "London CA"
+  },
+  {
+    "code": "YXX",
+    "name": "Abbotsford"
+  },
+  {
+    "code": "YXY",
+    "name": "Whitehorse"
+  },
+  {
+    "code": "YXZ",
+    "name": "Wawa"
+  },
+  {
+    "code": "YYC",
+    "name": "Calgary"
+  },
+  {
+    "code": "YYD",
+    "name": "Smithers"
+  },
+  {
+    "code": "YYF",
+    "name": "Penticton"
+  },
+  {
+    "code": "YYG",
+    "name": "Charlottetown"
+  },
+  {
+    "code": "YYJ",
+    "name": "Victoria"
+  },
+  {
+    "code": "YYM",
+    "name": "Cowley"
+  },
+  {
+    "code": "YYR",
+    "name": "Goose Bay"
+  },
+  {
+    "code": "YYU",
+    "name": "Kapuskasing"
+  },
+  {
+    "code": "YYY",
+    "name": "Mont-Joli"
+  },
+  {
+    "code": "YYZ",
+    "name": "Toronto Lester B. Pearson"
+  },
+  {
+    "code": "YZF",
+    "name": "Yellowknife"
+  },
+  {
+    "code": "YZG",
+    "name": "Salluit"
+  },
+  {
+    "code": "YZP",
+    "name": "Sandspit"
+  },
+  {
+    "code": "YZR",
+    "name": "Sarnia"
+  },
+  {
+    "code": "YZU",
+    "name": "Whitecourt"
+  },
+  {
+    "code": "YZW",
+    "name": "Teslin"
+  },
+  {
+    "code": "YZX",
+    "name": "Greenwood CA"
+  },
+  {
+    "code": "ZAD",
+    "name": "Zadar"
+  },
+  {
+    "code": "ZAG",
+    "name": "Zagreb"
+  },
+  {
+    "code": "ZAH",
+    "name": "Zahedan"
+  },
+  {
+    "code": "ZAO",
+    "name": "Cahors/Lalbenque"
+  },
+  {
+    "code": "ZAV",
+    "name": "Aveiro"
+  },
+  {
+    "code": "ZAZ",
+    "name": "Zaragoza"
+  },
+  {
+    "code": "ZBE",
+    "name": "Zabreh"
+  },
+  {
+    "code": "ZBF",
+    "name": "Bathurst"
+  },
+  {
+    "code": "ZBM",
+    "name": "Bromont"
+  },
+  {
+    "code": "ZBQ",
+    "name": "Randers"
+  },
+  {
+    "code": "ZCA",
+    "name": "Arnsberg"
+  },
+  {
+    "code": "ZCB",
+    "name": "Aschaffenburg-Grossostheim"
+  },
+  {
+    "code": "ZCC",
+    "name": "Baden Baden"
+  },
+  {
+    "code": "ZCD",
+    "name": "Bamberg"
+  },
+  {
+    "code": "ZCN",
+    "name": "Celle"
+  },
+  {
+    "code": "ZCR",
+    "name": "Dachau/Grobenried"
+  },
+  {
+    "code": "ZCV",
+    "name": "Dinslaken Schwarze Heide"
+  },
+  {
+    "code": "ZDK",
+    "name": "Biel-Kappelen"
+  },
+  {
+    "code": "ZEE",
+    "name": "Fulda-Jossa"
+  },
+  {
+    "code": "ZFA",
+    "name": "Faro"
+  },
+  {
+    "code": "ZGA",
+    "name": "Gera-Leumnitz"
+  },
+  {
+    "code": "ZGO",
+    "name": "Gotha-Ost"
+  },
+  {
+    "code": "ZGQ",
+    "name": "Tournai"
+  },
+  {
+    "code": "ZHH",
+    "name": "Gossau Sg"
+  },
+  {
+    "code": "ZHI",
+    "name": "Grenchen"
+  },
+  {
+    "code": "ZHK",
+    "name": "Gstaad-Inn Grund"
+  },
+  {
+    "code": "ZHW",
+    "name": "La Cote"
+  },
+  {
+    "code": "ZIA",
+    "name": "Trento"
+  },
+  {
+    "code": "ZIH",
+    "name": "Ixtapa/Zihuatanejo"
+  },
+  {
+    "code": "ZIN",
+    "name": "Interlaken"
+  },
+  {
+    "code": "ZJS",
+    "name": "Jena"
+  },
+  {
+    "code": "ZJU",
+    "name": "Olten"
+  },
+  {
+    "code": "ZKE",
+    "name": "Kaschechewan"
+  },
+  {
+    "code": "ZKJ",
+    "name": "Schaffhausen"
+  },
+  {
+    "code": "ZLI",
+    "name": "Winterthur"
+  },
+  {
+    "code": "ZLJ",
+    "name": "Yverdon-Les-Bains"
+  },
+  {
+    "code": "ZMG",
+    "name": "Magdeburg"
+  },
+  {
+    "code": "ZMO",
+    "name": "Modena/Marzaglia"
+  },
+  {
+    "code": "ZMT",
+    "name": "Masset"
+  },
+  {
+    "code": "ZNF",
+    "name": "Hanau"
+  },
+  {
+    "code": "ZNM",
+    "name": "Herten-Rheinfelden"
+  },
+  {
+    "code": "ZNO",
+    "name": "Hildesheim"
+  },
+  {
+    "code": "ZNQ",
+    "name": "Ingolstadt"
+  },
+  {
+    "code": "ZNS",
+    "name": "Kempten-Durach"
+  },
+  {
+    "code": "ZNV",
+    "name": "Koblenz-Winningen"
+  },
+  {
+    "code": "ZOA",
+    "name": "Leverkusen"
+  },
+  {
+    "code": "ZOI",
+    "name": "Marburg-Schonstadt"
+  },
+  {
+    "code": "ZOJ",
+    "name": "Marl-Loemuhle"
+  },
+  {
+    "code": "ZOW",
+    "name": "Nordhorn-Lingen"
+  },
+  {
+    "code": "ZPA",
+    "name": "Offenburg"
+  },
+  {
+    "code": "ZPD",
+    "name": "Oldenburg-Hatten"
+  },
+  {
+    "code": "ZPE",
+    "name": "Osnabruck-Atterheide"
+  },
+  {
+    "code": "ZPG",
+    "name": "Peine-Eddesse"
+  },
+  {
+    "code": "ZPI",
+    "name": "Pirmasens"
+  },
+  {
+    "code": "ZPM",
+    "name": "Regensburg-Oberhub"
+  },
+  {
+    "code": "ZPT",
+    "name": "Saarlouis-Duren"
+  },
+  {
+    "code": "ZPU",
+    "name": "Salzgitter-Drutte"
+  },
+  {
+    "code": "ZQC",
+    "name": "Speyer"
+  },
+  {
+    "code": "ZQD",
+    "name": "Stade"
+  },
+  {
+    "code": "ZQP",
+    "name": "Wesel-Romerwardt"
+  },
+  {
+    "code": "ZQV",
+    "name": "Worms"
+  },
+  {
+    "code": "ZQW",
+    "name": "Zweibruken"
+  },
+  {
+    "code": "ZRH",
+    "name": "Zurich"
+  },
+  {
+    "code": "ZRK",
+    "name": "Rockford"
+  },
+  {
+    "code": "ZSK",
+    "name": "Pasewalk-Fransfelde"
+  },
+  {
+    "code": "ZSN",
+    "name": "Stendal-Borstel"
+  },
+  {
+    "code": "ZSO",
+    "name": "Suhl-Goldlauter"
+  },
+  {
+    "code": "ZSR",
+    "name": "Schwerin-Parchim"
+  },
+  {
+    "code": "ZST",
+    "name": "Stewart"
+  },
+  {
+    "code": "ZSU",
+    "name": "Dessau"
+  },
+  {
+    "code": "ZSX",
+    "name": "Stralsund"
+  },
+  {
+    "code": "ZTH",
+    "name": "Zakynthos"
+  },
+  {
+    "code": "ZTK",
+    "name": "Triengen"
+  },
+  {
+    "code": "ZTM",
+    "name": "Shamattawa"
+  },
+  {
+    "code": "ZTZ",
+    "name": "Chemnitz/Jahnsdorf"
+  },
+  {
+    "code": "ZUB",
+    "name": "Neubrandenburg"
+  },
+  {
+    "code": "ZWM",
+    "name": "Wismar-Muggenburg"
+  },
+  {
+    "code": "ZXB",
+    "name": "Jan Mayen"
+  },
+  {
+    "code": "ZXC",
+    "name": "Bangsund"
+  },
+  {
+    "code": "ZXD",
+    "name": "Vikna"
+  },
+  {
+    "code": "ZXF",
+    "name": "Rørvik"
+  },
+  {
+    "code": "ZXG",
+    "name": "Gravik"
+  },
+  {
+    "code": "ZXH",
+    "name": "Sørfjord"
+  },
+  {
+    "code": "ZXI",
+    "name": "Røddey"
+  },
+  {
+    "code": "ZXJ",
+    "name": "Fore"
+  },
+  {
+    "code": "ZXK",
+    "name": "Båsmo"
+  },
+  {
+    "code": "ZXL",
+    "name": "Skjerstad"
+  },
+  {
+    "code": "ZXN",
+    "name": "Leka"
+  },
+  {
+    "code": "ZXO",
+    "name": "Fauske"
+  },
+  {
+    "code": "ZXQ",
+    "name": "Solstad"
+  },
+  {
+    "code": "ZXR",
+    "name": "Hemnes"
+  },
+  {
+    "code": "ZZV",
+    "name": "Zanesville"
+  }
+]
