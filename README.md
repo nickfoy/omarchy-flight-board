@@ -15,7 +15,7 @@ Turn an idle screen into an airport flight board. Watch arrivals and departures 
 
 **Live coverage:** supported Norwegian Avinor airports. No account or API key required. Gallery images and animation use clearly labelled simulated demo flights.
 
-**Laptop-tested alpha · 0.1.0-alpha.1.** Live setup/restoration and lock/display-off/wake/unlock checks passed on the development laptop. The cleaned package loads successfully and its lock-appearance tabs were visually reviewed. Fresh-machine installation, multiple monitors, suspend and alternative authentication remain unverified; see the [test record](docs/RELEASE-CHECKLIST.md).
+**Laptop-tested alpha · 0.1.0-alpha.2.** Live setup/restoration and lock/display-off/wake/unlock checks passed on the development laptop. The cleaned package loads successfully and its lock-appearance tabs were visually reviewed. Fresh-machine installation, multiple monitors, suspend and alternative authentication remain unverified; see the [test record](docs/RELEASE-CHECKLIST.md).
 
 ## Watch the flaps turn
 
@@ -123,6 +123,6 @@ The host lifecycle test exercises the installed Omarchy registry's enable/disabl
 
 Lock code is adapted from [Lock Screen Explorer](https://github.com/SirJul1337/omarchy-lock-explorer) 1.7.7 by SirJul1337; its MIT notice remains in `lock/LICENSE`. Idle code derives from Omarchy. Font licensing is in `app/data/font-license.txt`. Avinor supplies the flight data.
 
-Flight Board is licensed under [MIT](LICENSE). See [third-party notices](THIRD_PARTY.md) for the font, airport directory, upstream code and listing media. The release package excludes upstream boot-image/Plymouth helpers and bundled video artwork. User-provided clips and existing custom lock designs remain supported; optional media, weather and authentication requirements are documented in [lock/README.md](lock/README.md).
+Flight Board is licensed under [MIT](LICENSE). See [third-party notices](THIRD_PARTY.md) for the font, airport directory, upstream code and listing media. The release package excludes upstream boot-image/Plymouth helpers, bundled video artwork and the optional FIDO2 PAM installer. Flight Board does not install or modify PAM policy. User-provided clips and existing custom lock designs remain supported; optional media, weather and authentication requirements are documented in [lock/README.md](lock/README.md).
 
 The [release checklist](docs/RELEASE-CHECKLIST.md) records completed checks, alpha testing limits and publication steps. The current gallery is captured from the shipped web frontend in Chromium using an isolated demo profile.

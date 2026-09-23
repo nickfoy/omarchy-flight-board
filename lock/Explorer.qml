@@ -559,7 +559,7 @@ Item {
   }
 
   // Security-key unlock. The row only appears once the PAM side is in place
-  // (extras/setup-fido2.sh); the toggle decides whether the lock screen uses
+  // (managed outside this plugin); the toggle decides whether the lock screen uses
   // it, and never touches PAM itself.
   readonly property bool fido2Installed: service && service.fido2Installed === true
   readonly property bool fido2Enabled: service && service.fido2Enabled !== undefined ? service.fido2Enabled : true

@@ -10,7 +10,7 @@ Flight Board's original code and listing materials are licensed under the root [
 
 The `lock/` appearance and authentication implementation is adapted from Lock Screen Explorer 1.7.7 by SirJul1337. Its original MIT notice is retained in [lock/LICENSE](lock/LICENSE). Source: <https://github.com/SirJul1337/omarchy-lock-explorer>.
 
-Flight Board adds the native flight cover and idle/display integration. The release package excludes upstream Plymouth/boot-image helpers and the Storm, Eyes and River videos/designs. Those video assets are not covered by Flight Board's project license and are not redistributed. Existing user-installed boot themes and user videos are not removed by this package.
+Flight Board adds the native flight cover and idle/display integration. The release package excludes upstream Plymouth/boot-image helpers, the optional FIDO2 PAM installer and the Storm, Eyes and River videos/designs. Those video assets are not covered by Flight Board's project license and are not redistributed. Existing user-installed boot themes and user videos are not removed by this package.
 
 ## Board font
 

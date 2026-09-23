@@ -12,7 +12,7 @@ Flight Board adds `BoardFeed.qml`, `BoardOverlay.qml` and `FlapCell.qml`, plus t
 - Plymouth, boot-image editing, boot rotation and the upstream bundled video artwork are excluded. Dormant compatibility properties in the adapted editor return neutral values; the service has no boot-writing processes or helpers.
 - Existing custom files under `~/.config/omarchy/lock-designs`, `lock-components` and `lock-videos` remain user-owned. Removing Flight Board does not delete them or revert an independently installed boot theme.
 - User-provided video features require `qt6-multimedia`. Weather uses `wttr.in`; music uses local MPRIS. These optional appearance features are not required by the flight board.
-- Optional FIDO2 setup in `extras/setup-fido2.sh` installs a dedicated PAM file with administrator approval. Flight Board setup never runs it. Standard password PAM is required and is the tested authentication path.
+- Flight Board does not install, modify or remove PAM policy. The optional upstream FIDO2 installer is excluded. Existing system-managed authentication services may be detected, but standard password PAM is required and is the tested path; alternative authentication remains unverified.
 - Menu/launcher additions are optional appearance-editor actions, separate from Flight Board setup.
 
 Only the tested capabilities documented in Flight Board's README are advertised. Do not follow installation commands from the upstream repository for this bundled copy.

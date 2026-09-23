@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "nickfoy.flight-board",
   "name": "Flight Board",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "author": "nickfoy",
   "description": "A split-flap screensaver with live Norwegian flights, optional 30-second turning, and screensaver, lock and display-off controls in one place.",
   "kinds": [

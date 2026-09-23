@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.0-alpha.2 — 22 September 2026
+
+- Removed the optional upstream FIDO2 PAM installer after marketplace review identified a privilege-boundary issue in its use of checkout-controlled PAM content. This package contains no PAM installation/removal helper.
+- Existing system-managed authentication configuration is left untouched. The tested password login and flight-board behavior are unchanged.
+- Supersedes alpha.1; do not run the optional FIDO2 helper from that earlier version.
+
 ## 0.1.0-alpha.1 — 22 September 2026
 
 - Split-flap flight board with Norwegian Avinor arrivals and departures, configurable airports, palettes, rows and time zones.

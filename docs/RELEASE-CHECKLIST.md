@@ -1,6 +1,6 @@
 # Alpha release checklist
 
-Target: `nickfoy/omarchy-flight-board`, personal GitHub account `nickfoy`. Plugin ID: `nickfoy.flight-board`. Release: `0.1.0-alpha.1`. This file records validation of the alpha; current publication results are available from the repository's Actions and Releases pages.
+Target: `nickfoy/omarchy-flight-board`, personal GitHub account `nickfoy`. Plugin ID: `nickfoy.flight-board`. Release: `0.1.0-alpha.2`. This file records validation of the alpha; current publication results are available from the repository's Actions and Releases pages.
 
 ## Candidate prepared
 
@@ -27,7 +27,11 @@ The listing gallery shows the real browser frontend, not the native secure-board
 
 1. Create the public repository under `nickfoy` and push the reviewed candidate.
 2. Run hosted CI, resolve any failures, and record the final commit.
-3. Publish `v0.1.0-alpha.1` as a prerelease with the prepared notes.
+3. Publish `v0.1.0-alpha.2` as a prerelease with the prepared notes.
 4. Submit the public repository for marketplace review with accurate checklist answers.
 
 No stable-release or broad hardware-support claim is made.
+
+## Marketplace review correction
+
+Submission #8251 identified the optional FIDO2 installer as a blocker. Alpha.2 removes it entirely instead of shipping plugin-controlled privileged PAM writes. Existing system PAM files are untouched. The reviewed runtime logic is otherwise unchanged; a comment and release documentation describe the reduced scope.
