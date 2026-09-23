@@ -15,7 +15,7 @@ Turn an idle screen into an airport flight board. Watch arrivals and departures 
 
 **Live coverage:** supported Norwegian Avinor airports. No account or API key required. Gallery images and animation use clearly labelled simulated demo flights.
 
-**Laptop-tested alpha candidate — not published yet.** Live setup/restoration and lock/display-off/wake/unlock checks passed on the development laptop. The cleaned package loads successfully and its lock-appearance tabs were visually reviewed. Fresh-machine installation, multiple monitors, suspend and alternative authentication remain unverified; see the [test record](docs/RELEASE-CHECKLIST.md).
+**Laptop-tested alpha · 0.1.0-alpha.1.** Live setup/restoration and lock/display-off/wake/unlock checks passed on the development laptop. The cleaned package loads successfully and its lock-appearance tabs were visually reviewed. Fresh-machine installation, multiple monitors, suspend and alternative authentication remain unverified; see the [test record](docs/RELEASE-CHECKLIST.md).
 
 ## Watch the flaps turn
 
@@ -70,9 +70,9 @@ Live data comes from supported Norwegian Avinor airports. No API key is required
 
 Developed against Omarchy 4.0.4-1 with Quickshell, Python 3, PyGObject, GTK 3, WebKit2 4.1, `jq`, `flock`, and standard Omarchy password PAM. A running, unlocked desktop with the stock idle service is required for setup. Restore any existing third-party idle or lock replacement to stock before setup; personal migrations are deliberately not automatic.
 
-## Install — instructions for the forthcoming repository
+## Install
 
-The planned repository is `nickfoy/omarchy-flight-board`. These commands become usable once it is published:
+Install from the official [nickfoy/omarchy-flight-board repository](https://github.com/nickfoy/omarchy-flight-board):
 
 ```sh
 omarchy plugin add https://github.com/nickfoy/omarchy-flight-board.git

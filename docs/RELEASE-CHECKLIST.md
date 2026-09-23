@@ -1,6 +1,6 @@
 # Alpha release checklist
 
-Target: `nickfoy/omarchy-flight-board`, personal GitHub account `nickfoy`. Plugin ID: `nickfoy.flight-board`. Candidate: `0.1.0-alpha.1`. No public repository, release or marketplace submission has been created.
+Target: `nickfoy/omarchy-flight-board`, personal GitHub account `nickfoy`. Plugin ID: `nickfoy.flight-board`. Release: `0.1.0-alpha.1`. This file records validation of the alpha; current publication results are available from the repository's Actions and Releases pages.
 
 ## Candidate prepared
 
@@ -23,11 +23,11 @@ Nick chose a laptop-tested alpha because no clean Omarchy machine or VM is avail
 
 The listing gallery shows the real browser frontend, not the native secure-board renderer. Native lock-appearance captures are internal review evidence, not proof of renderer parity.
 
-## Publication steps
+## Publication process
 
-- [ ] Create the public repository under `nickfoy` and push the reviewed candidate.
-- [ ] Run hosted CI, resolve any failures, and record the final commit.
-- [ ] Publish `v0.1.0-alpha.1` as a prerelease with the prepared notes.
-- [ ] Submit the public repository for marketplace review with accurate checklist answers.
+1. Create the public repository under `nickfoy` and push the reviewed candidate.
+2. Run hosted CI, resolve any failures, and record the final commit.
+3. Publish `v0.1.0-alpha.1` as a prerelease with the prepared notes.
+4. Submit the public repository for marketplace review with accurate checklist answers.
 
 No stable-release or broad hardware-support claim is made.
