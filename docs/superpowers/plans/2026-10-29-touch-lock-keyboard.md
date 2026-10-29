@@ -26,7 +26,7 @@ subprocesses or persistent state. Scoped local validation, full GitHub checks.
 - [x] Inspect rendered keyboard at Yoga landscape and portrait logical sizes.
 - [x] Review the small authentication-adjacent change before deploying. Back up
   originals; guard installed-source equality; install while unlocked and reload.
-- [ ] Push feature branch for full GitHub checks. User tests actual touch-only
+- [x] Push feature branch for full GitHub checks. User tests actual touch-only
   unlock; password must never be requested in chat or logged.
 
 Review focus: cover/DPMS hide must block input; authentication must block repeated

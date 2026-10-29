@@ -21,8 +21,10 @@ No authentication service implementation, PAM, boot or display policy changed.
   emits Color.lock warnings in the isolated preview. The new keyboard uses an
   explicit Commons alias and rendered correctly. Offscreen preview also reports
   unavailable desktop IPC/Hyprland; it does not instantiate authentication.
-- Actual touchscreen unlock, physical keyboard fallback, and failure recovery
-  require user acceptance after installation. Passwords must remain private.
+- Actual touch-only desktop unlock passed after installation: the user
+  confirmed "Unlocked OK!" on 2026-10-29. No password was requested or inspected.
+- Physical keyboard fallback after installation and real authentication failure
+  recovery have not been separately exercised; synthetic routing/gating checks passed.
 
 Full repository checks run in GitHub, not locally. The existing workflow includes
 the new Node test; a QML parsing job was added for GitHub.
@@ -31,3 +33,6 @@ Installed into the active user-owned Flight Board plugin on 2026-10-29.
 Original plugin backup: ~/.local/state/omarchy/plugin-backups/nickfoy.flight-board-before-touch-20261029-112117.
 The install verified original host/service hashes and copied files only while
 the session was unlocked. Omarchy shell was restarted successfully.
+
+Full GitHub checks passed for implementation commit 0dc9866:
+https://github.com/nickfoy/omarchy-flight-board/actions/runs/40930092711
