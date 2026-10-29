@@ -4,6 +4,15 @@ This directory contains the lock implementation bundled with Flight Board. It is
 
 Open Flight Board's **Settings → Screensaver → Lock screen appearance** to choose a design, avatar, unlock transition and password-screen idle timeout. A separate lock plugin is not needed. Authentication remains inside Omarchy's private lock service; the appearance editor receives a restricted facade.
 
+The secure password screen includes a touch keyboard. It opens automatically on
+the Yoga's lower panel (eDP-2), falling back to eDP-1 when the lower panel is
+unavailable. **Show keyboard** is available on other lock surfaces. English
+letters, numbers and symbols, Shift/Caps, Backspace, Clear and Unlock work through
+the existing password authentication. The flight cover must first be dismissed
+with a touch. The keyboard handles no desktop commands and stores no passwords;
+hardware keyboard input continues to work. Boot-time disk unlocking remains a
+separate system configuration.
+
 Flight Board adds `BoardFeed.qml`, `BoardOverlay.qml` and `FlapCell.qml`, plus the secure-cover and screen-off scheduling in `Service.qml`. Its top-level plugin retains stock idle as a fallback. Refer to [the project README](../README.md) for setup, timing, restoration and removal.
 
 ## Scope of this bundle

@@ -1771,6 +1771,10 @@ echo "$out"
         LockHost {
           id: lockView
           anchors.fill: parent
+          touchKeyboardAvailable: true
+          touchKeyboardAwake: !root.screenBlanked
+          touchKeyboardAutoShow: lockSurface.screen && (lockSurface.screen.name === "eDP-2"
+            || (lockSurface.screen.name === "eDP-1" && !Quickshell.screens.some(function(s){return s.name === "eDP-2"})))
           fadeIn: true
           designId: root.showsInput(lockSurface.screen) ? root.designId : "companion"
           revision: root.designsRevision

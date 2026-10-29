@@ -1,9 +1,11 @@
 import QtQuick
 import Quickshell.Io
+import qs.Commons as Commons
 import "Designs.js" as Designs
 
 Item {
   id: host
+  Commons.Translations {id: keyboardStrings; directory: Qt.resolvedUrl("i18n")}
 
   property string designId: Designs.DEFAULT_ID
   property int revision: 0
@@ -32,6 +34,43 @@ Item {
   property real clipSpeed: 1
   // 12-hour clocks with AM/PM, see `omarchy-shell lock setClockFormat`.
   property bool twelveHour: false
+  property bool touchKeyboardAvailable: false
+  property bool touchKeyboardAutoShow: false
+  property bool touchKeyboardOpen: touchKeyboardAutoShow
+  property bool touchKeyboardAwake: true
+  readonly property bool touchKeyboardReady: touchKeyboard.status === Loader.Ready
+  property bool touchShift: false
+  property bool touchCaps: false
+
+  function resetTouchKeyboard() {
+    touchShift = false
+    touchCaps = false
+  }
+
+  function handleTouchKey(code) {
+    if (!touchKeyboardAvailable || !touchKeyboardOpen || !inputEnabled || authenticatingPassword) return
+    if (!touchKeyboardAwake) { wakeRequested(); return }
+    if (!touchKeyboard.item) return
+    var next = touchKeyboard.item.applyKey(fido2Active ? "" : passwordText, code, touchShift, touchCaps)
+    if (!next) return
+    wakeRequested()
+    if (code === "Hide") { touchKeyboardOpen = false; resetTouchKeyboard(); forcePasswordFocus(); return }
+    passwordRequested()
+    touchShift = next.shift
+    touchCaps = next.caps
+    if (next.submit) {
+      passwordTextEdited("")
+      submitPassword(next.text)
+    } else if (next.text !== passwordText) {
+      clearFailureRequested()
+      passwordTextEdited(next.text)
+    }
+    forcePasswordFocus()
+  }
+
+  onInputEnabledChanged: if (!inputEnabled) resetTouchKeyboard()
+  onTouchKeyboardAwakeChanged: if (!touchKeyboardAwake) resetTouchKeyboard()
+  onTouchKeyboardOpenChanged: if (!touchKeyboardOpen) resetTouchKeyboard()
 
   signal submitPassword(string password)
   signal passwordTextEdited(string password)
@@ -172,6 +211,61 @@ Item {
     function onFido2Requested() { host.fido2Requested() }
     function onPasswordRequested() { host.passwordRequested() }
     function onSubmitFido2Pin(pin) { host.submitFido2Pin(pin) }
+  }
+
+  // Part of the secure lock surface, never a desktop overlay or IPC typer.
+  // A failed keyboard Loader leaves the existing password input operational.
+  Loader {
+    id: touchKeyboard
+    z: 10
+    anchors.horizontalCenter: parent.horizontalCenter
+    anchors.bottom: parent.bottom
+    anchors.bottomMargin: 70
+    width: Math.max(0,Math.min(1100,host.width-24))
+    height: Math.min(350,Math.max(200,host.height*.43))
+    active: host.touchKeyboardAvailable && host.touchKeyboardOpen
+    visible: active && host.inputEnabled && host.touchKeyboardAwake && !host.unlockPlayback
+    source: "TouchKeyboard.qml"
+    onLoaded: {
+      item.shift = Qt.binding(function(){return host.touchShift})
+      item.caps = Qt.binding(function(){return host.touchCaps})
+      item.characterCount = Qt.binding(function(){return host.passwordText.length})
+      item.failureMessage = Qt.binding(function(){return host.failureMessage})
+      item.authenticating = Qt.binding(function(){return host.authenticatingPassword})
+      item.enabled = Qt.binding(function(){return host.inputEnabled && host.touchKeyboardAwake && !host.authenticatingPassword && host.touchKeyboardOpen})
+      item.keyRequested.connect(host.handleTouchKey)
+    }
+  }
+  Rectangle {
+    z: 11
+    anchors.right: parent.right
+    anchors.bottom: parent.bottom
+    anchors.margins: 16
+    width: 170
+    height: 44
+    radius: Commons.Style.cornerRadius
+    visible: host.touchKeyboardAvailable && host.inputEnabled && host.touchKeyboardAwake && !host.unlockPlayback
+    color: Commons.Color.background
+    border.color: Commons.Color.lock.borderActive
+    Accessible.role: Accessible.Button
+    Accessible.name: keyboardStrings.t(host.touchKeyboardOpen ? "keyboard.hide" : "keyboard.show")
+    Text {
+      anchors.centerIn: parent
+      textFormat: Text.PlainText
+      text: keyboardStrings.t(host.touchKeyboardOpen ? "keyboard.hide" : "keyboard.show")
+      color: Commons.Color.foreground
+      font.family: Commons.Style.font.family
+      font.pixelSize: 17
+    }
+    TapHandler {
+      enabled: !host.authenticatingPassword
+      onTapped: {
+        host.wakeRequested()
+        host.touchKeyboardOpen = !host.touchKeyboardOpen
+        host.resetTouchKeyboard()
+        host.forcePasswordFocus()
+      }
+    }
   }
 
   // Last line of defense: if nothing rendered at all — the design AND the
